@@ -4,7 +4,7 @@ System prompts and dictionaries used by the CURVTON data-generation pipeline. Co
 
 ## `docs/images/`
 
-Figures from the WACV paper used in the main README: `teaser.jpg`, `pipeline.png` (data-generation pipeline), `tier_easy.jpg`, `tier_medium.jpg`, `tier_hard.jpg`.
+Figures from the WACV paper used in the main README: `teaser.jpg`, `tier_easy.jpg`, `tier_medium.jpg`, `tier_hard.jpg`.
 
 ## `human_eval_rubrics.json`
 

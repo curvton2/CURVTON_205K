@@ -10,7 +10,7 @@ The metrics reported in the paper sit at the top of this folder; everything else
 
 ```
 Evaluation/Dataset_Complexity_Metrics/
-├── compute_paper_metrics.py        # The 13 diversity numbers reported in the paper (per dataset / CURVTON tier)
+├── compute_metrics.py        # The 13 diversity numbers reported in the paper (per dataset / CURVTON tier)
 ├── pose_diversity.py               # Pose diversity σ²_pose exactly as defined in the paper
 ├── pretrained_metrics/
 │   ├── metrics/                    # Metric backends behind the paper numbers
@@ -50,7 +50,7 @@ Run the commands below from inside `Evaluation/Dataset_Complexity_Metrics/`.
 
 ## 📊 Metrics reported in the paper
 
-`compute_paper_metrics.py` writes exactly the columns of the paper's "Task-free dataset diversity comparison" table:
+`compute_metrics.py` writes exactly the columns of the paper's "Task-free dataset diversity comparison" table:
 
 | Dimension | Paper column | Output key | Computed by |
 |---|---|---|---|
@@ -64,10 +64,10 @@ Run the commands below from inside `Evaluation/Dataset_Complexity_Metrics/`.
 
 ```bash
 # CURVTON, per difficulty tier (easy / medium / hard / all)
-python compute_paper_metrics.py --curvton_root /path/to/dataset_ultimate_test --output results/curvton.json
+python compute_metrics.py --curvton_root /path/to/dataset_ultimate_test --output results/curvton.json
 
 # A benchmark dataset (vitonhd, dresscode, street_tryon, ... — see datasets/loaders.py)
-python compute_paper_metrics.py --dataset vitonhd --root /path/to/vitonhd --output results/vitonhd.json
+python compute_metrics.py --dataset vitonhd --root /path/to/vitonhd --output results/vitonhd.json
 
 # Pose diversity on its own
 python pose_diversity.py --curvton_root /path/to/dataset_ultimate_test

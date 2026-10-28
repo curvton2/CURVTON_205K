@@ -1,6 +1,6 @@
 # Extras — dataset-complexity outputs not reported in the paper
 
-The paper's diversity table is produced by `../compute_paper_metrics.py`. This folder keeps everything else the metric code can compute, for further analysis.
+The paper's diversity table is produced by `../compute_metrics.py`. This folder keeps everything else the metric code can compute, for further analysis.
 
 | File | What it computes |
 |---|---|

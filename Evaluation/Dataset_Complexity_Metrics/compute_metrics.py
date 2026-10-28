@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-compute_paper_metrics.py — The task-free dataset-diversity metrics reported in the paper
+compute_metrics.py — The task-free dataset-diversity metrics reported in the paper
 (main paper "Task-free dataset diversity comparison"; definitions in the Supplementary).
 
 Only the 13 numbers in that table are computed and written:
@@ -26,10 +26,10 @@ unified complexity index and all secondary outputs) lives in extras/.
 Usage
 -----
 # CURVTON, per difficulty tier
-python compute_paper_metrics.py --curvton_root /path/to/dataset_ultimate_test --output results/curvton.json
+python compute_metrics.py --curvton_root /path/to/dataset_ultimate_test --output results/curvton.json
 
 # A benchmark dataset supported by datasets/loaders.py
-python compute_paper_metrics.py --dataset vitonhd --root /path/to/vitonhd --output results/vitonhd.json
+python compute_metrics.py --dataset vitonhd --root /path/to/vitonhd --output results/vitonhd.json
 """
 
 from __future__ import annotations

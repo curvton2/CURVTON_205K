@@ -157,8 +157,6 @@ The training and test sets use the same layout:
 
 ## 5. Data generation pipeline
 
-![Data generation pipeline](CURVTON_assets/docs/images/pipeline.png)
-
 The pipeline has four streams. **FLUX.2 [klein] 9B** generates every image; **Qwen3-VL-32B-Instruct** writes prompts and checks results.
 
 | Stream | What happens | Code |
@@ -288,11 +286,11 @@ python Evaluation/VTON_Evaluation/trained/unified_eval.py --target base -- --hel
 
 ### Dataset complexity — `Evaluation/Dataset_Complexity_Metrics/`
 
-This measures how varied a dataset is. `compute_paper_metrics.py` computes the paper's diversity table — pose (σ²_pose, via `pose_diversity.py`), occlusion, background, illumination, body shape, garment and camera — for CURVTON tiers or a benchmark dataset:
+This measures how varied a dataset is. `compute_metrics.py` computes the paper's diversity table — pose (σ²_pose, via `pose_diversity.py`), occlusion, background, illumination, body shape, garment and camera — for CURVTON tiers or a benchmark dataset:
 
 ```bash
 cd Evaluation/Dataset_Complexity_Metrics
-python compute_paper_metrics.py --curvton_root /path/to/test --output results/curvton.json
+python compute_metrics.py --curvton_root /path/to/test --output results/curvton.json
 ```
 
 Metrics not reported in the paper (appearance, VAE latent, a unified index and secondary outputs) are in `extras/`. See [its README](Evaluation/Dataset_Complexity_Metrics/README.md).

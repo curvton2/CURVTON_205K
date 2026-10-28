@@ -15,3 +15,6 @@ __pycache__/
 # Large data files (>50 MB)
 CURVTON_Data_Pipeline/vton/edit/edit.jsonl
 CURVTON_Data_Pipeline/vton/tryon/edit.jsonl
+
+# Not published
+CURVTON_assets/docs/images/pipeline.png

@@ -105,7 +105,7 @@ Examples:
 
 ```bash
 python Evaluation/Dataset_Complexity_Metrics/test_metric.py --metric m1 --help
-python Evaluation/Dataset_Complexity_Metrics/compute_paper_metrics.py --help
+python Evaluation/Dataset_Complexity_Metrics/compute_metrics.py --help
 ```
 
 ## 9. Deactivate Environment

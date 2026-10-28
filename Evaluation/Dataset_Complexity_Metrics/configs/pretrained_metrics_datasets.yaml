@@ -1,6 +1,6 @@
 # configs/pretrained_metrics_datasets.yaml
 # ------------------------------------------
-# Multi-dataset config for compute_paper_metrics.py and extras/compute_all_metrics.py
+# Multi-dataset config for compute_metrics.py and extras/compute_all_metrics.py
 # Edit 'root' for each dataset. 'pred_dir' is ignored here.
 #
 # Run:
