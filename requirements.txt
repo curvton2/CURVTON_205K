@@ -1,0 +1,57 @@
+# CURVTON — single requirements file for the whole repository
+# Install with: pip install -r requirements.txt
+# Install the CUDA build of torch/torchvision that matches your system first:
+#   https://pytorch.org/get-started/locally/
+
+# ── Core ──────────────────────────────────────────────────────────────────────
+numpy>=1.24.0,<2.0.0
+scipy>=1.11.0
+pandas>=2.0.0
+tqdm>=4.66.0
+pyyaml
+omegaconf
+Pillow>=10.0.0
+opencv-python>=4.8.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+scikit-image>=0.21.0
+
+# ── PyTorch ───────────────────────────────────────────────────────────────────
+torch>=2.4.0
+torchvision>=0.19.0
+
+# ── Diffusion / VLM runtime (Flux.2 Klein, Qwen-Image-Edit, Qwen3-VL) ─────────
+diffusers>=0.33.0
+transformers>=4.51.0
+accelerate>=0.34.0
+huggingface_hub>=0.23.0
+tokenizers>=0.19.0
+safetensors>=0.4.3
+sentencepiece>=0.1.99
+protobuf
+peft>=0.11.0
+# flash-attn is used via attn_implementation="flash_attention_2"; build it for your CUDA:
+#   pip install flash-attn --no-build-isolation
+
+# ── Training / logging ────────────────────────────────────────────────────────
+wandb
+weave>=0.50.0
+
+# ── Evaluation metrics ────────────────────────────────────────────────────────
+lpips>=0.1.4
+torchmetrics[image]>=1.3.0
+pytorch-fid>=0.3.0
+mediapipe>=0.10.0
+timm>=0.9.0
+
+# ── Dataset complexity metrics (M1–M9) backends ───────────────────────────────
+ultralytics            # M2 occlusion (YOLO)
+insightface            # M6 appearance (face analysis)
+openmim>=0.3.9         # M1 pose (MMPose HRNet); install mmcv with: mim install mmcv
+mmengine>=0.10.0
+mmcv>=2.0.0
+mmdet>=3.0.0
+mmpose>=1.3.0
+# M5 body shape / M9 camera angle use HMR2 (4D-Humans), installed from source:
+#   pip install git+https://github.com/shubham-goel/4D-Humans.git

@@ -1,0 +1,2312 @@
+[
+  {
+    "name": "Daura Suruwal",
+    "dress_type": "fullbody dress",
+    "description": "collarless double-breasted tied shirt reaching mid-thigh, paired with tapered trousers fitted tight from knee to ankle",
+    "traditional": true
+  },
+  {
+    "name": "Gunyo Cholo",
+    "dress_type": "fullbody dress",
+    "description": "saree-style long wraparound cloth worn with a short-sleeved fitted blouse; traditional Nepali women's two-piece",
+    "traditional": true
+  },
+  {
+    "name": "Haku Patasi",
+    "dress_type": "fullbody dress",
+    "description": "long wraparound cloth draped as saree reaching the ankle, worn with a short fitted blouse underneath",
+    "traditional": true
+  },
+  {
+    "name": "Chaubandi Cholo",
+    "dress_type": "upperbody inner dress",
+    "description": "fitted blouse with four-cornered tie fastening at front and back, short sleeves",
+    "traditional": true
+  },
+  {
+    "name": "Bakhu (Chuba)",
+    "dress_type": "fullbody dress",
+    "description": "full-length loose robe with wide sleeves and overlapping front, tied at waist with a long sash",
+    "traditional": true
+  },
+  {
+    "name": "Pangden",
+    "dress_type": "fullbody dress",
+    "description": "wide rectangular apron panel with vertical divisions, tied at waist falling to ankles, worn over a robe",
+    "traditional": true
+  },
+  {
+    "name": "Mekhli",
+    "dress_type": "lowerbody dress",
+    "description": "wraparound skirt secured at waist, falling to mid-calf or ankle",
+    "traditional": true
+  },
+  {
+    "name": "Ghalek",
+    "dress_type": "fullbody dress",
+    "description": "sleeveless overdress falling to ankle, worn over a blouse, with open sides or side slits",
+    "traditional": true
+  },
+  {
+    "name": "Bhangra",
+    "dress_type": "upperbody flex dress",
+    "description": "short waist-length jacket with a front opening, worn over inner garments",
+    "traditional": true
+  },
+  {
+    "name": "Kachhad",
+    "dress_type": "lowerbody dress",
+    "description": "rectangular cloth wrapped around waist as lower garment, tucked between legs in dhoti style",
+    "traditional": true
+  },
+  {
+    "name": "Phariya",
+    "dress_type": "lowerbody dress",
+    "description": "plain wraparound skirt tied at waist, falling to the ankle",
+    "traditional": true
+  },
+  {
+    "name": "Sari",
+    "dress_type": "fullbody dress",
+    "description": "long cloth draped around body with pleats at front waist, one end thrown over shoulder, worn with fitted blouse",
+    "traditional": true
+  },
+  {
+    "name": "Dhaka Topi",
+    "dress_type": "cap",
+    "description": "traditional brimless Nepali cap with a distinctive folded angular shape",
+    "traditional": true
+  },
+  {
+    "name": "Shyama",
+    "dress_type": "upperbody inner dress",
+    "description": "short fitted blouse with elbow-length or short sleeves; Tharu women's traditional upper garment",
+    "traditional": true
+  },
+  {
+    "name": "Tamang Selo Dress",
+    "dress_type": "fullbody dress",
+    "description": "fitted blouse paired with a wraparound skirt and a front decorative drape; Tamang women's traditional two-piece",
+    "traditional": true
+  },
+  {
+    "name": "Sherpa Bakhu",
+    "dress_type": "fullbody dress",
+    "description": "full-length robe with wide overlapping front, long sleeves, secured at waist with a wide sash",
+    "traditional": true
+  },
+  {
+    "name": "Limbu Mekhli",
+    "dress_type": "lowerbody dress",
+    "description": "wraparound skirt falling to mid-calf, secured at waist; Limbu women's traditional lower garment",
+    "traditional": true
+  },
+  {
+    "name": "Rai Lungi",
+    "dress_type": "lowerbody dress",
+    "description": "wraparound lower cloth tied at waist, falling to the knee or mid-calf",
+    "traditional": true
+  },
+  {
+    "name": "Sunuwar Dress",
+    "dress_type": "fullbody dress",
+    "description": "traditional blouse and wraparound skirt combination falling to ankle; Sunuwar community women's attire",
+    "traditional": true
+  },
+  {
+    "name": "Mekhela Sador",
+    "dress_type": "fullbody dress",
+    "description": "two-piece: cylindrical skirt wrapped at waist plus a separate cloth draped over the shoulder and tucked at chest",
+    "traditional": true
+  },
+  {
+    "name": "Nauvari",
+    "dress_type": "fullbody dress",
+    "description": "nine-yard saree draped with the end passed between legs and tucked at back, worn with a blouse",
+    "traditional": true
+  },
+  {
+    "name": "Kashta",
+    "dress_type": "fullbody dress",
+    "description": "saree draped with the end passed between legs and tucked at waist; worn with a fitted blouse",
+    "traditional": true
+  },
+  {
+    "name": "Phiran",
+    "dress_type": "fullbody dress",
+    "description": "long loose robe reaching below the knee with wide long sleeves and a round or V neckline",
+    "traditional": true
+  },
+  {
+    "name": "Puan",
+    "dress_type": "shawl",
+    "description": "rectangular woven cloth draped over shoulders or wrapped around the upper body; Mizo women's shawl",
+    "traditional": true
+  },
+  {
+    "name": "Jainsem",
+    "dress_type": "fullbody dress",
+    "description": "Khasi two-piece: a cylindrical tube skirt plus a draped cloth fastened over one shoulder",
+    "traditional": true
+  },
+  {
+    "name": "Dokona",
+    "dress_type": "lowerbody dress",
+    "description": "wraparound lower cloth secured at waist, falling to mid-calf; Tripuri women's traditional skirt",
+    "traditional": true
+  },
+  {
+    "name": "Phanek",
+    "dress_type": "lowerbody dress",
+    "description": "cylindrical wraparound skirt tucked and folded at waist, falling to mid-calf; Meitei women's garment",
+    "traditional": true
+  },
+  {
+    "name": "Innaphi",
+    "dress_type": "shawl",
+    "description": "lightweight rectangular cloth draped over the shoulders; Meitei women's shoulder shawl",
+    "traditional": true
+  },
+  {
+    "name": "Ghagra Choli",
+    "dress_type": "fullbody dress",
+    "description": "full circular flared long skirt falling to ankle paired with a short fitted midriff-baring blouse",
+    "traditional": true
+  },
+  {
+    "name": "Chaniya Choli",
+    "dress_type": "fullbody dress",
+    "description": "heavily flared ankle-length skirt paired with a short fitted blouse and a draped dupatta",
+    "traditional": true
+  },
+  {
+    "name": "Kediyu",
+    "dress_type": "upperbody inner dress",
+    "description": "short Gujarati men's top with gathered fabric and flared hem at the waist, short-sleeved",
+    "traditional": true
+  },
+  {
+    "name": "Mundu",
+    "dress_type": "lowerbody dress",
+    "description": "single rectangular cloth wrapped at waist falling to the ankle; Kerala men's lower garment",
+    "traditional": true
+  },
+  {
+    "name": "Veshti",
+    "dress_type": "lowerbody dress",
+    "description": "single rectangular cloth wrapped at waist falling to the ankle; Tamil men's lower garment",
+    "traditional": true
+  },
+  {
+    "name": "Lungi",
+    "dress_type": "lowerbody dress",
+    "description": "cylindrical tube cloth wrapped at waist, falling to mid-calf or ankle",
+    "traditional": true
+  },
+  {
+    "name": "Sherwani",
+    "dress_type": "fullbody dress",
+    "description": "knee-length formal coat with a Nehru collar, button front, fitted at chest and slightly flared below the waist",
+    "traditional": true
+  },
+  {
+    "name": "Angrakha",
+    "dress_type": "upperbody inner dress",
+    "description": "knee-length tunic with overlapping asymmetric front panels tied at the side, long sleeves",
+    "traditional": true
+  },
+  {
+    "name": "Gara",
+    "dress_type": "fullbody dress",
+    "description": "long cloth draped as saree reaching the ankle, worn with a blouse; Parsi women's formal saree",
+    "traditional": true
+  },
+  {
+    "name": "Salwar Kameez",
+    "dress_type": "fullbody dress",
+    "description": "long tunic with side slits reaching below the hip, worn over loose tapered trousers gathered at ankle",
+    "traditional": true
+  },
+  {
+    "name": "Patiala Salwar",
+    "dress_type": "fullbody dress",
+    "description": "long kurta worn over very voluminous pleated trousers with deep horizontal folds, gathered at ankle",
+    "traditional": true
+  },
+  {
+    "name": "Churidar",
+    "dress_type": "lowerbody dress",
+    "description": "fitted trousers very tight from knee down, creating horizontal ruching folds at the ankle",
+    "traditional": true
+  },
+  {
+    "name": "Lehenga",
+    "dress_type": "lowerbody dress",
+    "description": "heavily flared circular ankle-length skirt with a wide waistband",
+    "traditional": true
+  },
+  {
+    "name": "Kurta Pajama",
+    "dress_type": "fullbody dress",
+    "description": "knee-length tunic with long sleeves and side slits, worn over loose straight-leg trousers",
+    "traditional": true
+  },
+  {
+    "name": "Bandhgala",
+    "dress_type": "upperbody flex dress",
+    "description": "fitted formal jacket with a high band collar and front button fastening, hip length, long sleeves",
+    "traditional": true
+  },
+  {
+    "name": "Pochampally Saree",
+    "dress_type": "fullbody dress",
+    "description": "long cloth draped as saree with pleats at front, one end over shoulder, worn with a fitted blouse",
+    "traditional": true
+  },
+  {
+    "name": "Kasavu Saree",
+    "dress_type": "fullbody dress",
+    "description": "long cloth draped as saree with pleats at front, one end over shoulder, worn with a fitted blouse",
+    "traditional": true
+  },
+  {
+    "name": "Muga Silk Saree",
+    "dress_type": "fullbody dress",
+    "description": "long cloth draped as saree with pleats at front, one end over shoulder, worn with a fitted blouse",
+    "traditional": true
+  },
+  {
+    "name": "Santhal Dress",
+    "dress_type": "fullbody dress",
+    "description": "draped cloth wrapped around the body from waist to ankle with an additional upper drape over the chest",
+    "traditional": true
+  },
+  {
+    "name": "Toda Puthkuli",
+    "dress_type": "shawl",
+    "description": "rectangular woven cloth draped over one or both shoulders; Toda ceremonial shawl",
+    "traditional": true
+  },
+  {
+    "name": "Naga Shawl",
+    "dress_type": "shawl",
+    "description": "rectangular woven cloth worn draped over the shoulders; Naga ceremonial and status shawl",
+    "traditional": true
+  },
+  {
+    "name": "Balochi Suit",
+    "dress_type": "fullbody dress",
+    "description": "very long wide-sleeved tunic reaching well below the knee with a deep V or round neckline, worn over loose trousers",
+    "traditional": true
+  },
+  {
+    "name": "Pashtun Dress",
+    "dress_type": "fullbody dress",
+    "description": "long loose tunic reaching below the knee with wide long sleeves, worn over very wide-legged trousers",
+    "traditional": true
+  },
+  {
+    "name": "Perahan Tunban",
+    "dress_type": "fullbody dress",
+    "description": "long loose tunic with long sleeves reaching mid-calf, worn over wide-legged drawstring trousers",
+    "traditional": true
+  },
+  {
+    "name": "Sindhi Topi",
+    "dress_type": "cap",
+    "description": "traditional flat-topped Sindhi cap with a rounded or oval shape",
+    "traditional": true
+  },
+  {
+    "name": "Ajrak",
+    "dress_type": "shawl",
+    "description": "large rectangular cloth worn draped over shoulders or wrapped around the body",
+    "traditional": true
+  },
+  {
+    "name": "Khet Partug",
+    "dress_type": "lowerbody dress",
+    "description": "extremely wide-legged drawstring trousers with very voluminous fabric gathered at the waist",
+    "traditional": true
+  },
+  {
+    "name": "Jamdani Saree",
+    "dress_type": "fullbody dress",
+    "description": "long cloth draped as saree with pleats at front, one end thrown over shoulder, worn with fitted blouse",
+    "traditional": true
+  },
+  {
+    "name": "Panjabi",
+    "dress_type": "upperbody inner dress",
+    "description": "long loose tunic with long sleeves and side slits, reaching the knee; men's everyday upper garment",
+    "traditional": true
+  },
+  {
+    "name": "Kalash Dress",
+    "dress_type": "fullbody dress",
+    "description": "straight ankle-length dress with long sleeves and a round neckline; Kalash women's traditional garment",
+    "traditional": true
+  },
+  {
+    "name": "Sindhi Lehenga",
+    "dress_type": "lowerbody dress",
+    "description": "full flared ankle-length skirt with a wide waistband",
+    "traditional": true
+  },
+  {
+    "name": "Bangladeshi Lungii",
+    "dress_type": "lowerbody dress",
+    "description": "cylindrical tube cloth wrapped at waist, falling to mid-calf; men's everyday lower garment",
+    "traditional": true
+  },
+  {
+    "name": "Chakma Dress",
+    "dress_type": "fullbody dress",
+    "description": "two-piece of a wraparound skirt reaching the ankle and a fitted blouse; Chakma women's traditional attire",
+    "traditional": true
+  },
+  {
+    "name": "Kimono",
+    "dress_type": "fullbody dress",
+    "description": "T-shaped full-length robe with wide sleeves, wrapped left-over-right, secured with a wide sash at waist",
+    "traditional": true
+  },
+  {
+    "name": "Furisode",
+    "dress_type": "fullbody dress",
+    "description": "full-length formal kimono with extremely long flowing sleeves reaching near the floor, wrapped and sash-secured",
+    "traditional": true
+  },
+  {
+    "name": "Tomesode",
+    "dress_type": "fullbody dress",
+    "description": "full-length formal kimono with shorter sleeves, wrapped left-over-right, secured with a wide sash",
+    "traditional": true
+  },
+  {
+    "name": "Shiromuku",
+    "dress_type": "fullbody dress",
+    "description": "full-length bridal robe worn layered with a heavily padded outer robe and a structured hood",
+    "traditional": true
+  },
+  {
+    "name": "Hakama",
+    "dress_type": "lowerbody dress",
+    "description": "wide pleated divided or undivided trousers falling to the ankle, secured at waist with long ties",
+    "traditional": true
+  },
+  {
+    "name": "Yukata",
+    "dress_type": "fullbody dress",
+    "description": "lightweight full-length robe with wide sleeves, wrapped left-over-right and secured with a sash at waist",
+    "traditional": true
+  },
+  {
+    "name": "Haori",
+    "dress_type": "upperbody flex dress",
+    "description": "hip-length open-front jacket with wide sleeves, worn over kimono without fastening",
+    "traditional": true
+  },
+  {
+    "name": "Happi",
+    "dress_type": "upperbody inner dress",
+    "description": "straight hip-length open-front coat with wide sleeves, secured with a tie, worn as festival attire",
+    "traditional": true
+  },
+  {
+    "name": "Hanten",
+    "dress_type": "upperbody flex dress",
+    "description": "padded hip-length jacket with wide sleeves and a lapel collar, worn over other garments for warmth",
+    "traditional": true
+  },
+  {
+    "name": "Jinbei",
+    "dress_type": "fullbody dress",
+    "description": "two-piece: short-sleeved lapel top tied at front, paired with above-knee shorts with drawstring waist",
+    "traditional": true
+  },
+  {
+    "name": "Samue",
+    "dress_type": "fullbody dress",
+    "description": "two-piece work wear: hip-length jacket with wide sleeves paired with straight-leg trousers",
+    "traditional": true
+  },
+  {
+    "name": "Fundoshi",
+    "dress_type": "lowerbody dress",
+    "description": "rectangular loincloth wrapped and tied around the hips; traditional Japanese undergarment",
+    "traditional": true
+  },
+  {
+    "name": "Montsuki",
+    "dress_type": "fullbody dress",
+    "description": "full-length formal kimono with wide sleeves, wrapped and sash-secured; typically worn with hakama",
+    "traditional": true
+  },
+  {
+    "name": "Ryusou",
+    "dress_type": "fullbody dress",
+    "description": "traditional Okinawan full-length robe with wide sleeves and overlapping front, tied with a sash",
+    "traditional": true
+  },
+  {
+    "name": "Ainu Attus",
+    "dress_type": "fullbody dress",
+    "description": "straight robe falling to knee or ankle with long sleeves and a straight collar, worn belted",
+    "traditional": true
+  },
+  {
+    "name": "Uchikake",
+    "dress_type": "fullbody flex dress",
+    "description": "heavily padded full-length outer kimono with wide sleeves and a long trailing hem, worn open over kimono",
+    "traditional": true
+  },
+  {
+    "name": "Hanfu",
+    "dress_type": "fullbody dress",
+    "description": "traditional Chinese robe with wide crossed collar, wide flowing sleeves, and a long skirt secured with ties or belt",
+    "traditional": true
+  },
+  {
+    "name": "Ruqun",
+    "dress_type": "fullbody dress",
+    "description": "Chinese two-piece: short crossed-collar blouse paired with a high-waisted long wrap skirt tied at chest",
+    "traditional": true
+  },
+  {
+    "name": "Shenyi",
+    "dress_type": "fullbody dress",
+    "description": "ancient Chinese one-piece full-length robe with wide sleeves and a curved wraparound hem",
+    "traditional": true
+  },
+  {
+    "name": "Qipao",
+    "dress_type": "fullbody dress",
+    "description": "form-fitting full-length dress with a high mandarin collar, side slits, sleeveless or short-sleeved",
+    "traditional": true
+  },
+  {
+    "name": "Cheongsam",
+    "dress_type": "fullbody dress",
+    "description": "form-fitting full-length or knee-length dress with a high mandarin collar, diagonal front fastening, and side slits",
+    "traditional": true
+  },
+  {
+    "name": "Changshan",
+    "dress_type": "fullbody dress",
+    "description": "men's full-length fitted robe with a mandarin collar, front toggle closures, and side slits",
+    "traditional": true
+  },
+  {
+    "name": "Hanbok",
+    "dress_type": "fullbody dress",
+    "description": "Korean two-piece: short tied wrap blouse with a very full high-waisted bell-shaped long skirt",
+    "traditional": true
+  },
+  {
+    "name": "Chima",
+    "dress_type": "lowerbody dress",
+    "description": "full bell-shaped skirt starting at chest level with shoulder straps, falling to ankle; Korean women's lower garment",
+    "traditional": true
+  },
+  {
+    "name": "Jeogori",
+    "dress_type": "upperbody inner dress",
+    "description": "short Korean wrap blouse with long sleeves, crossing at front and tied with a long ribbon at the chest",
+    "traditional": true
+  },
+  {
+    "name": "Gat",
+    "dress_type": "cap",
+    "description": "traditional Korean cylindrical hat with a wide flat brim and a tall straight cylindrical crown",
+    "traditional": true
+  },
+  {
+    "name": "Durumagi",
+    "dress_type": "upperbody flex dress",
+    "description": "full-length Korean overcoat with long wide sleeves, a straight collar, and front tie fastening",
+    "traditional": true
+  },
+  {
+    "name": "Deel",
+    "dress_type": "fullbody dress",
+    "description": "full-length Mongolian robe with a round collar, overlapping front, long sleeves, secured with a sash",
+    "traditional": true
+  },
+  {
+    "name": "Uyghur Atlas Dress",
+    "dress_type": "fullbody dress",
+    "description": "fitted full-length dress with a V or round neckline, long or short sleeves, and a flared skirt",
+    "traditional": true
+  },
+  {
+    "name": "Zhuang Ethnic Dress",
+    "dress_type": "fullbody dress",
+    "description": "collarless or stand-collar tunic reaching mid-thigh worn over loose trousers; Zhuang women's traditional outfit",
+    "traditional": true
+  },
+  {
+    "name": "Miao Embroidered Dress",
+    "dress_type": "fullbody dress",
+    "description": "fitted long-sleeved blouse worn with a pleated skirt falling to knee or mid-calf; Miao women's dress",
+    "traditional": true
+  },
+  {
+    "name": "Yi Ethnic Robe",
+    "dress_type": "fullbody dress",
+    "description": "full-length robe with a wide collar and long sleeves, wrapped and secured at waist; Yi traditional garment",
+    "traditional": true
+  },
+  {
+    "name": "Korean Jeonbok",
+    "dress_type": "upperbody flex dress",
+    "description": "sleeveless Korean vest with a V-shaped open front, worn over the jeogori blouse",
+    "traditional": true
+  },
+  {
+    "name": "Korean Dopo",
+    "dress_type": "fullbody dress",
+    "description": "full-length wide-sleeved scholar's robe with a straight collar and open front; Korean men's formal wear",
+    "traditional": true
+  },
+  {
+    "name": "Ao Dai",
+    "dress_type": "fullbody dress",
+    "description": "fitted full-length tunic with high mandarin collar and side slits from waist to hem, worn over wide-leg trousers",
+    "traditional": true
+  },
+  {
+    "name": "Ao Ba Ba",
+    "dress_type": "fullbody dress",
+    "description": "loose collarless long-sleeved blouse reaching below the hip, worn over wide-leg trousers",
+    "traditional": true
+  },
+  {
+    "name": "Barong Tagalog",
+    "dress_type": "upperbody inner dress",
+    "description": "formal untucked sheer long-sleeved shirt reaching hip length with a mandarin or open collar",
+    "traditional": true
+  },
+  {
+    "name": "Baro't Saya",
+    "dress_type": "fullbody dress",
+    "description": "butterfly-sleeved wide blouse paired with a long wrap skirt; Filipino women's traditional dress",
+    "traditional": true
+  },
+  {
+    "name": "Kebaya",
+    "dress_type": "upperbody inner dress",
+    "description": "fitted long-sleeved blouse reaching hip or thigh with a front opening, worn over a wraparound skirt",
+    "traditional": true
+  },
+  {
+    "name": "Sarong",
+    "dress_type": "lowerbody dress",
+    "description": "rectangular cloth wrapped at waist and tied or tucked, falling to ankle or mid-calf",
+    "traditional": true
+  },
+  {
+    "name": "Sampot",
+    "dress_type": "lowerbody dress",
+    "description": "Cambodian rectangular cloth wrapped at waist and draped in various styles, falling to knee or ankle",
+    "traditional": true
+  },
+  {
+    "name": "Chut Thai",
+    "dress_type": "fullbody dress",
+    "description": "Thai two-piece: fitted blouse with a trim collar paired with a silk wraparound skirt; formal traditional attire",
+    "traditional": true
+  },
+  {
+    "name": "Sabai",
+    "dress_type": "upperbody inner dress",
+    "description": "rectangular cloth wrapped diagonally across the chest and over one shoulder as an upper body garment",
+    "traditional": true
+  },
+  {
+    "name": "Longyi",
+    "dress_type": "lowerbody dress",
+    "description": "cylindrical tube cloth wrapped at waist and knotted, falling to the ankle; Burmese everyday skirt",
+    "traditional": true
+  },
+  {
+    "name": "Baju Kurung",
+    "dress_type": "fullbody dress",
+    "description": "long-sleeved loose blouse reaching mid-thigh paired with a long wrap skirt; Malay women's traditional dress",
+    "traditional": true
+  },
+  {
+    "name": "Baju Melayu",
+    "dress_type": "fullbody dress",
+    "description": "loose long-sleeved shirt reaching mid-thigh paired with matching trousers and a front-tied waist cloth",
+    "traditional": true
+  },
+  {
+    "name": "Sinhala Osariya",
+    "dress_type": "fullbody dress",
+    "description": "saree draped in Sri Lankan style with pleats at front, one end over shoulder, worn with a fitted jacket blouse",
+    "traditional": true
+  },
+  {
+    "name": "Hmong Pleated Dress",
+    "dress_type": "fullbody dress",
+    "description": "fitted long-sleeved blouse worn with a heavily pleated skirt and a front apron panel, knee-length",
+    "traditional": true
+  },
+  {
+    "name": "Ifugao Tapis",
+    "dress_type": "lowerbody dress",
+    "description": "rectangular wraparound skirt secured at waist, falling to mid-thigh or knee; Ifugao women's lower garment",
+    "traditional": true
+  },
+  {
+    "name": "Thobe",
+    "dress_type": "fullbody dress",
+    "description": "full-length loose robe with long sleeves, collarless or small collar, and button front, falling to the ankle",
+    "traditional": true
+  },
+  {
+    "name": "Dishdasha",
+    "dress_type": "fullbody dress",
+    "description": "full-length loose long-sleeved robe with a round or stand collar and button front, falling to ankle",
+    "traditional": true
+  },
+  {
+    "name": "Kandura",
+    "dress_type": "fullbody dress",
+    "description": "full-length loose robe with long sleeves and a mandarin collar, falling to the ankle",
+    "traditional": true
+  },
+  {
+    "name": "Bisht",
+    "dress_type": "fullbody flex dress",
+    "description": "full-length open-front ceremonial cloak with long sleeves, draped over the shoulders over other garments",
+    "traditional": true
+  },
+  {
+    "name": "Abaya",
+    "dress_type": "fullbody flex dress",
+    "description": "full-length loose open-front or closed over-robe with long sleeves, worn over other clothing",
+    "traditional": true
+  },
+  {
+    "name": "Jellabiya",
+    "dress_type": "fullbody dress",
+    "description": "full-length loose robe with long or short sleeves and a round or V neckline, no collar",
+    "traditional": true
+  },
+  {
+    "name": "Chapan",
+    "dress_type": "fullbody flex dress",
+    "description": "full-length open-front Central Asian robe with long wide sleeves, draped over other garments",
+    "traditional": true
+  },
+  {
+    "name": "Kaftan",
+    "dress_type": "fullbody dress",
+    "description": "full-length long-sleeved loose robe with a front opening and a round or V neckline",
+    "traditional": true
+  },
+  {
+    "name": "Keffiyeh",
+    "dress_type": "scarf",
+    "description": "large square cloth folded and draped over the head and shoulders",
+    "traditional": true
+  },
+  {
+    "name": "Shemagh",
+    "dress_type": "scarf",
+    "description": "large square cloth wrapped around the head and neck",
+    "traditional": true
+  },
+  {
+    "name": "Ghutra",
+    "dress_type": "scarf",
+    "description": "square cloth draped over the head and held in place with a cord ring (iqal)",
+    "traditional": true
+  },
+  {
+    "name": "Afghan Kuchi Dress",
+    "dress_type": "fullbody dress",
+    "description": "long-sleeved ankle-length dress with a round neckline and very full gathered skirt",
+    "traditional": true
+  },
+  {
+    "name": "Turkmen Don",
+    "dress_type": "fullbody dress",
+    "description": "full-length long-sleeved fitted robe with a round neckline; traditional Turkmen women's dress",
+    "traditional": true
+  },
+  {
+    "name": "Kazakh Shapan",
+    "dress_type": "fullbody flex dress",
+    "description": "full-length outer robe with long wide sleeves and a straight collar, worn over clothing",
+    "traditional": true
+  },
+  {
+    "name": "Uyghur Doppa Outfit",
+    "dress_type": "fullbody dress",
+    "description": "long-sleeved fitted full-length robe; Uyghur traditional attire worn with a small embroidered cap",
+    "traditional": true
+  },
+  {
+    "name": "Agbada",
+    "dress_type": "fullbody flex dress",
+    "description": "very wide-sleeved full-length open-sided outer robe with extremely voluminous sleeves, worn over inner tunic and trousers",
+    "traditional": true
+  },
+  {
+    "name": "Dashiki",
+    "dress_type": "upperbody inner dress",
+    "description": "loose pullover tunic reaching mid-thigh with a V-shaped neckline opening and short or long sleeves",
+    "traditional": true
+  },
+  {
+    "name": "Gele",
+    "dress_type": "head wrap",
+    "description": "large rectangular fabric wrapped and folded around the head into a structured sculptural shape",
+    "traditional": true
+  },
+  {
+    "name": "Kanzu",
+    "dress_type": "fullbody dress",
+    "description": "full-length long-sleeved robe with a collarless or stand collar; East African men's formal dress",
+    "traditional": true
+  },
+  {
+    "name": "Boubou",
+    "dress_type": "fullbody flex dress",
+    "description": "very wide floor-length open-sided outer robe with wide sleeves, worn over inner garments",
+    "traditional": true
+  },
+  {
+    "name": "Djellaba",
+    "dress_type": "fullbody dress",
+    "description": "full-length hooded robe with long sleeves, a pointed hood, and front opening with toggle buttons",
+    "traditional": true
+  },
+  {
+    "name": "Shuka",
+    "dress_type": "fullbody flex dress",
+    "description": "rectangular cloth wrapped and draped around the full body from shoulder to ankle, worn over minimal undergarments",
+    "traditional": true
+  },
+  {
+    "name": "Isiagu",
+    "dress_type": "upperbody inner dress",
+    "description": "men's pullover top with long sleeves and a round or V neckline; Igbo traditional shirt",
+    "traditional": true
+  },
+  {
+    "name": "Maasai Beaded Dress",
+    "dress_type": "fullbody dress",
+    "description": "layered wrapped cloth draped around the body and secured at shoulder",
+    "traditional": true
+  },
+  {
+    "name": "Zulu Isidwaba",
+    "dress_type": "lowerbody dress",
+    "description": "stiff cowhide skirt flared at hem, falling to mid-calf; Zulu women's traditional lower garment",
+    "traditional": true
+  },
+  {
+    "name": "Xhosa Umbhaco",
+    "dress_type": "fullbody dress",
+    "description": "long wrapped cloth draped around the body; Xhosa women's traditional dress",
+    "traditional": true
+  },
+  {
+    "name": "Tuareg Tagelmust",
+    "dress_type": "head and face wrap",
+    "description": "long cloth wrapped around head and face, leaving only the eyes visible",
+    "traditional": true
+  },
+  {
+    "name": "Ewe Kente Cloth",
+    "dress_type": "fullbody flex dress",
+    "description": "wide strip-woven cloth draped and wrapped around the full body over other garments; Ewe ceremonial wear",
+    "traditional": true
+  },
+  {
+    "name": "Berber Amazigh Dress",
+    "dress_type": "fullbody dress",
+    "description": "rectangular cloth wrapped around the body and pinned at shoulders, falling to ankle",
+    "traditional": true
+  },
+  {
+    "name": "Herero Victorian Dress",
+    "dress_type": "fullbody dress",
+    "description": "full-length Victorian-style dress with a fitted bodice, long sleeves, and a very full gathered skirt with petticoats",
+    "traditional": true
+  },
+  {
+    "name": "Huipil",
+    "dress_type": "upperbody inner dress",
+    "description": "loose rectangular tunic with a central neck opening, short or no sleeves, reaching hip to knee",
+    "traditional": true
+  },
+  {
+    "name": "Poncho",
+    "dress_type": "upperbody flex dress",
+    "description": "rectangular or square cloth with a central neck opening, draped over shoulders falling to waist or hip",
+    "traditional": true
+  },
+  {
+    "name": "Ruana",
+    "dress_type": "upperbody flex dress",
+    "description": "large square or rectangular cloth with a front slit opening, draped over shoulders like a cloak",
+    "traditional": true
+  },
+  {
+    "name": "Pollera",
+    "dress_type": "fullbody dress",
+    "description": "elaborate full-length skirt with multiple tiered ruffled layers worn with a matching blouse",
+    "traditional": true
+  },
+  {
+    "name": "Bombín",
+    "dress_type": "cap",
+    "description": "small round-crowned bowler hat with a narrow brim, worn perched atop the head",
+    "traditional": true
+  },
+  {
+    "name": "Guayabera",
+    "dress_type": "upperbody inner dress",
+    "description": "straight-hem shirt with two vertical pleat rows on front and back, four pockets, short or long sleeves",
+    "traditional": true
+  },
+  {
+    "name": "Quechua Lliclla",
+    "dress_type": "shawl",
+    "description": "rectangular woven cloth worn over the shoulders and fastened at the chest with a pin",
+    "traditional": true
+  },
+  {
+    "name": "Navajo Velvet Dress",
+    "dress_type": "fullbody dress",
+    "description": "long-sleeved fitted dress reaching mid-calf with a round or square neckline",
+    "traditional": true
+  },
+  {
+    "name": "Inuit Amauti",
+    "dress_type": "upperbody flex dress",
+    "description": "hooded outer parka with long sleeves and an enlarged back hood pouch for carrying a baby, hip length",
+    "traditional": true
+  },
+  {
+    "name": "Mapuche Chamall",
+    "dress_type": "upperbody flex dress",
+    "description": "rectangular woven cloth wrapped around the upper body and pinned at the shoulder",
+    "traditional": true
+  },
+  {
+    "name": "T-Shirt",
+    "dress_type": "upperbody inner dress",
+    "description": "short-sleeved pullover top with a round crew neckline, falling to the hip",
+    "traditional": false
+  },
+  {
+    "name": "Dress Shirt",
+    "dress_type": "upperbody inner dress",
+    "description": "button-front collared shirt with long sleeves, a pointed collar, and a straight hem",
+    "traditional": false
+  },
+  {
+    "name": "Blouse",
+    "dress_type": "upperbody inner dress",
+    "description": "lightweight women's top with varied necklines and sleeve styles, falling to the hip",
+    "traditional": false
+  },
+  {
+    "name": "Crop Top",
+    "dress_type": "upperbody inner dress",
+    "description": "short top ending above the waist or at the midriff with varied necklines and sleeve lengths",
+    "traditional": false
+  },
+  {
+    "name": "Tank Top",
+    "dress_type": "upperbody inner dress",
+    "description": "sleeveless top with shoulder straps and a round or scooped neckline, falling to the hip",
+    "traditional": false
+  },
+  {
+    "name": "Hoodie",
+    "dress_type": "upperbody flex dress",
+    "description": "pullover or zip-up sweatshirt with an attached drawstring hood and a front kangaroo pocket",
+    "traditional": false
+  },
+  {
+    "name": "Sweatshirt",
+    "dress_type": "upperbody flex dress",
+    "description": "long-sleeved pullover with a crew neckline, ribbed cuffs and hem, no hood",
+    "traditional": false
+  },
+  {
+    "name": "Jacket",
+    "dress_type": "upperbody flex dress",
+    "description": "hip-length outerwear with long sleeves, a front zip or button closure, and a collar",
+    "traditional": false
+  },
+  {
+    "name": "Blazer",
+    "dress_type": "upperbody flex dress",
+    "description": "single or double-breasted tailored jacket with notched lapels, hip length, structured shoulders",
+    "traditional": false
+  },
+  {
+    "name": "Suit",
+    "dress_type": "fullbody dress",
+    "description": "matching tailored jacket and trousers in the same fabric with lapels and a button front",
+    "traditional": false
+  },
+  {
+    "name": "Tuxedo",
+    "dress_type": "fullbody dress",
+    "description": "formal matching jacket and trousers with satin lapels and a satin side stripe on the trouser leg",
+    "traditional": false
+  },
+  {
+    "name": "Jeans",
+    "dress_type": "lowerbody dress",
+    "description": "fitted or relaxed denim trousers with belt loops, front zip, and patch back pockets",
+    "traditional": false
+  },
+  {
+    "name": "Trousers",
+    "dress_type": "lowerbody dress",
+    "description": "full-length tailored pants with a waistband, belt loops, and straight or tapered legs",
+    "traditional": false
+  },
+  {
+    "name": "Chinos",
+    "dress_type": "lowerbody dress",
+    "description": "slim or straight-cut trousers in cotton twill with a flat front and clean pressed finish",
+    "traditional": false
+  },
+  {
+    "name": "Shorts",
+    "dress_type": "lowerbody dress",
+    "description": "short trousers with hemline falling above the knee, waistband, and belt loops",
+    "traditional": false
+  },
+  {
+    "name": "Skirt",
+    "dress_type": "lowerbody dress",
+    "description": "women's waist-fitted skirt of varied length and silhouette",
+    "traditional": false
+  },
+  {
+    "name": "Mini Skirt",
+    "dress_type": "lowerbody dress",
+    "description": "very short skirt with hemline falling well above the knee at mid-thigh",
+    "traditional": false
+  },
+  {
+    "name": "Midi Skirt",
+    "dress_type": "lowerbody dress",
+    "description": "skirt with hemline falling between the knee and ankle at mid-calf length",
+    "traditional": false
+  },
+  {
+    "name": "Maxi Skirt",
+    "dress_type": "lowerbody dress",
+    "description": "full-length skirt falling to the ankle or floor",
+    "traditional": false
+  },
+  {
+    "name": "Bodycon Dress",
+    "dress_type": "fullbody dress",
+    "description": "form-fitting stretchy dress hugging every curve, typically knee-length or shorter",
+    "traditional": false
+  },
+  {
+    "name": "A-Line Dress",
+    "dress_type": "fullbody dress",
+    "description": "fitted at chest and waist, flaring gradually into an A-shape from hips to hem",
+    "traditional": false
+  },
+  {
+    "name": "Evening Gown",
+    "dress_type": "fullbody dress",
+    "description": "full-length formal dress with a fitted bodice and flared or column skirt, often with a low back or neckline",
+    "traditional": false
+  },
+  {
+    "name": "Cocktail Dress",
+    "dress_type": "fullbody dress",
+    "description": "semi-formal knee-length dress in a fitted or A-line silhouette",
+    "traditional": false
+  },
+  {
+    "name": "Jumpsuit",
+    "dress_type": "fullbody dress",
+    "description": "one-piece garment with a top and full-length trousers joined at the waist",
+    "traditional": false
+  },
+  {
+    "name": "Playsuit",
+    "dress_type": "fullbody dress",
+    "description": "one-piece garment with a top and short shorts joined at the waist",
+    "traditional": false
+  },
+  {
+    "name": "Co-ord Set",
+    "dress_type": "fullbody dress",
+    "description": "matching top and bottom set in the same fabric, worn together as a coordinated outfit",
+    "traditional": false
+  },
+  {
+    "name": "Athleisure Set",
+    "dress_type": "fullbody dress",
+    "description": "matching athletic top and leggings or shorts in stretch fabric",
+    "traditional": false
+  },
+  {
+    "name": "Tracksuit",
+    "dress_type": "fullbody dress",
+    "description": "matching zip-up jacket and elasticated trousers in fleece or nylon",
+    "traditional": false
+  },
+  {
+    "name": "Kurti",
+    "dress_type": "upperbody inner dress",
+    "description": "straight or A-line tunic reaching hip to knee with a round or V neckline and long or three-quarter sleeves",
+    "traditional": false
+  },
+  {
+    "name": "Modern Kurta",
+    "dress_type": "upperbody inner dress",
+    "description": "straight-cut tunic with side slits reaching knee length, long or short sleeves, mandarin or round collar",
+    "traditional": false
+  },
+  {
+    "name": "Palazzo Pants",
+    "dress_type": "lowerbody dress",
+    "description": "very wide-leg full-length trousers flaring dramatically from the hip in flowing fabric",
+    "traditional": false
+  },
+  {
+    "name": "Leggings",
+    "dress_type": "lowerbody dress",
+    "description": "form-fitting full-length stretchy trousers with no waist fastening, hugging legs to the ankle",
+    "traditional": false
+  },
+  {
+    "name": "Power Suit",
+    "dress_type": "fullbody dress",
+    "description": "matching structured blazer and wide or straight-leg trousers with a strong shoulder line",
+    "traditional": false
+  },
+  {
+    "name": "Wrap Dress",
+    "dress_type": "fullbody dress",
+    "description": "front wraps across the body tied at the waist, creating a V neckline, falling to knee length",
+    "traditional": false
+  },
+  {
+    "name": "Slip Dress",
+    "dress_type": "fullbody dress",
+    "description": "thin-strapped slinky dress with a bias-cut or straight silhouette, falling to knee or ankle",
+    "traditional": false
+  },
+  {
+    "name": "Denim Jacket",
+    "dress_type": "upperbody flex dress",
+    "description": "hip-length rigid denim jacket with button front, chest and hip pockets, and long sleeves",
+    "traditional": false
+  },
+  {
+    "name": "Bomber Jacket",
+    "dress_type": "upperbody flex dress",
+    "description": "hip-length jacket with ribbed collar, cuffs, and hem, a zip front, and long sleeves",
+    "traditional": false
+  },
+  {
+    "name": "Cargo Pants",
+    "dress_type": "lowerbody dress",
+    "description": "straight or relaxed-leg trousers with large bellowed cargo pockets on the thighs",
+    "traditional": false
+  },
+  {
+    "name": "Streetwear Set",
+    "dress_type": "fullbody dress",
+    "description": "matching oversized top and trousers or shorts for urban casual wear",
+    "traditional": false
+  },
+  {
+    "name": "Oversized Tee",
+    "dress_type": "upperbody inner dress",
+    "description": "very loose short-sleeved crew-neck top falling to the hip or thigh",
+    "traditional": false
+  },
+  {
+    "name": "Polo Shirt",
+    "dress_type": "upperbody inner dress",
+    "description": "short-sleeved collared shirt with a partial button placket at the front neckline, falling to the hip",
+    "traditional": false
+  },
+  {
+    "name": "Peplum Top",
+    "dress_type": "upperbody inner dress",
+    "description": "fitted top with a short gathered or flared frill attached at the waist, extending over the hips",
+    "traditional": false
+  },
+  {
+    "name": "Maxi Dress",
+    "dress_type": "fullbody dress",
+    "description": "full-length women's dress falling to the ankle with varied sleeve and neckline styles",
+    "traditional": false
+  },
+  {
+    "name": "Sheath Dress",
+    "dress_type": "fullbody dress",
+    "description": "fitted straight knee-length dress following the body's silhouette closely with minimal flare",
+    "traditional": false
+  },
+  {
+    "name": "Cape Coat",
+    "dress_type": "upperbody flex dress",
+    "description": "knee-length outer coat with cape-style wide sleeves or an attached arm-slot cape draping over arms",
+    "traditional": false
+  },
+  {
+    "name": "Trench Coat",
+    "dress_type": "upperbody flex dress",
+    "description": "knee-length double-breasted outer coat with wide lapels, a storm flap, belted waist, and long sleeves",
+    "traditional": false
+  },
+  {
+    "name": "Sweater Dress",
+    "dress_type": "fullbody dress",
+    "description": "knitted dress falling to knee or midi length with long sleeves and a crew or turtleneck collar",
+    "traditional": false
+  },
+  {
+    "name": "Utility Jumpsuit",
+    "dress_type": "fullbody dress",
+    "description": "one-piece garment with long sleeves, multiple cargo pockets, and full-length trousers",
+    "traditional": false
+  },
+  {
+    "name": "Dirndl",
+    "dress_type": "fullbody dress",
+    "description": "tight low-cut bodice with a full gathered skirt below the knee, puff-sleeved blouse underneath, decorative apron at front",
+    "traditional": true
+  },
+  {
+    "name": "Lederhosen",
+    "dress_type": "lowerbody dress",
+    "description": "leather knee-length breeches with H-shaped suspenders crossing over the chest, with decorative panels on bib and thighs",
+    "traditional": true
+  },
+  {
+    "name": "Kilt",
+    "dress_type": "lowerbody dress",
+    "description": "knee-length pleated wrap-around skirt secured at front with a flat apron panel fastened with a large pin",
+    "traditional": true
+  },
+  {
+    "name": "Bunad (women's)",
+    "dress_type": "fullbody dress",
+    "description": "long woolen skirt with a matching fitted bodice with silver clasps, worn with a white blouse underneath",
+    "traditional": true
+  },
+  {
+    "name": "Bunad (men's)",
+    "dress_type": "fullbody dress",
+    "description": "dark short jacket with silver buttons, knee-length breeches, a white shirt, and knee-high white stockings",
+    "traditional": true
+  },
+  {
+    "name": "Sarafan",
+    "dress_type": "fullbody dress",
+    "description": "sleeveless A-line pinafore dress, floor-length, worn over a long-sleeved blouse",
+    "traditional": true
+  },
+  {
+    "name": "Vyshyvanka (women's)",
+    "dress_type": "upperbody inner dress",
+    "description": "loose long-sleeved linen or cotton blouse with a wide round collar and wide sleeve hems",
+    "traditional": true
+  },
+  {
+    "name": "Vyshyvanka (men's)",
+    "dress_type": "upperbody inner dress",
+    "description": "loose linen shirt with long sleeves, a round collar, and a front placket, worn tucked or belted",
+    "traditional": true
+  },
+  {
+    "name": "Flamenco Dress",
+    "dress_type": "fullbody dress",
+    "description": "form-fitting bodice and hips flaring dramatically from the knee into multiple layered ruffled tiers at the hem",
+    "traditional": true
+  },
+  {
+    "name": "Gákti (women's)",
+    "dress_type": "fullbody dress",
+    "description": "wool dress-length tunic falling to mid-calf with ribbon band trim at hem, collar, and cuffs, worn with a distinctive cap",
+    "traditional": true
+  },
+  {
+    "name": "Gákti (men's)",
+    "dress_type": "upperbody inner dress",
+    "description": "thigh-length tunic with ribbon borders at collar, hem, and cuffs, worn belted at the waist",
+    "traditional": true
+  },
+  {
+    "name": "Amalia Dress",
+    "dress_type": "fullbody dress",
+    "description": "lace-trimmed blouse worn under a velvet jacket, paired with a pleated ankle-length skirt and a small tasseled cap",
+    "traditional": true
+  },
+  {
+    "name": "Kosovorotka",
+    "dress_type": "upperbody inner dress",
+    "description": "loose linen shirt with an asymmetric side-buttoning collar opening to the left, worn belted at the waist",
+    "traditional": true
+  },
+  {
+    "name": "Breton Stripe Shirt",
+    "dress_type": "upperbody inner dress",
+    "description": "fitted pullover with a wide round Breton neckline and three-quarter or full-length sleeves",
+    "traditional": true
+  },
+  {
+    "name": "Aran Sweater",
+    "dress_type": "upperbody flex dress",
+    "description": "thick cable-knit wool pullover with dense cable, honeycomb, and diamond stitches and a round crew neckline",
+    "traditional": true
+  },
+  {
+    "name": "Fair Isle Sweater",
+    "dress_type": "upperbody flex dress",
+    "description": "fitted knitted pullover with repeating geometric multi-motif band patterns in traditional Shetland knitting style",
+    "traditional": true
+  },
+  {
+    "name": "Romanian Ie",
+    "dress_type": "upperbody inner dress",
+    "description": "linen blouse with a wide round or square neckline and wide loose sleeves",
+    "traditional": true
+  },
+  {
+    "name": "Polish Krakowiak Dress",
+    "dress_type": "fullbody dress",
+    "description": "full ankle-length skirt with a fitted velvet bodice and ribbon trim, worn with an embroidered blouse underneath",
+    "traditional": true
+  },
+  {
+    "name": "Scottish Tartan Dress",
+    "dress_type": "fullbody dress",
+    "description": "tartan wool pinafore worn over a blouse, or as a fitted bodice with a full pleated midi skirt",
+    "traditional": true
+  },
+  {
+    "name": "Hungarian Matyó Embroidered Dress",
+    "dress_type": "fullbody dress",
+    "description": "cotton dress with a fitted bodice and very full skirt densely covered in raised three-dimensional surface decorations",
+    "traditional": true
+  },
+  {
+    "name": "Habesha Kemis",
+    "dress_type": "fullbody dress",
+    "description": "ankle-length handwoven cotton dress with a wide decorated band along the neckline, sleeve cuffs, and hem",
+    "traditional": true
+  },
+  {
+    "name": "Netela (women's)",
+    "dress_type": "shawl",
+    "description": "lightweight cotton shawl draped over the head and shoulders with a woven border at one end",
+    "traditional": true
+  },
+  {
+    "name": "Netela (men's)",
+    "dress_type": "shawl",
+    "description": "lightweight cotton shawl draped over the shoulders and wrapped around the body with a woven border",
+    "traditional": true
+  },
+  {
+    "name": "Kanga",
+    "dress_type": "fullbody dress",
+    "description": "rectangular cotton cloth worn wrapped at waist as skirt, draped over shoulder, or tied over head",
+    "traditional": true
+  },
+  {
+    "name": "Kitenge Dress",
+    "dress_type": "fullbody dress",
+    "description": "tailored dress in wax-print fabric styled as fitted peplum with pencil skirt, wrap dress, or full-length maxi",
+    "traditional": true
+  },
+  {
+    "name": "Gomesi",
+    "dress_type": "fullbody dress",
+    "description": "long dress with a square neckline, short puffed sleeves, and a straight skirt to the ankles, cinched with a wide sash",
+    "traditional": true
+  },
+  {
+    "name": "Kaba and Slit",
+    "dress_type": "fullbody dress",
+    "description": "two-piece: fitted blouse with a unique tailored neckline, paired with a matching long wrap skirt",
+    "traditional": true
+  },
+  {
+    "name": "Gandoura",
+    "dress_type": "fullbody dress",
+    "description": "loose collarless tunic with wide or no sleeves, falling to the knee or ankle",
+    "traditional": true
+  },
+  {
+    "name": "Aso-Oke Wrapper (women's)",
+    "dress_type": "fullbody dress",
+    "description": "three-piece woven ceremonial set: sculptural head wrap, a shoulder cloth, and a waist wrapper",
+    "traditional": true
+  },
+  {
+    "name": "Moroccan Caftan",
+    "dress_type": "fullbody dress",
+    "description": "long formal robe with a deep V or round collar and long sleeves, in silk or brocade",
+    "traditional": true
+  },
+  {
+    "name": "Egyptian Galabiya",
+    "dress_type": "fullbody dress",
+    "description": "long loose robe with long sleeves and a round or V neckline, falling to the ankles",
+    "traditional": true
+  },
+  {
+    "name": "Ndebele Ceremonial Dress",
+    "dress_type": "fullbody dress",
+    "description": "stiff beaded rectangular front apron worn with stacked neck and leg rings and a beaded blanket draped over the back",
+    "traditional": true
+  },
+  {
+    "name": "Rwandan Mushanana",
+    "dress_type": "fullbody dress",
+    "description": "long fitted dress with a fabric sash draped diagonally from one shoulder across the body",
+    "traditional": true
+  },
+  {
+    "name": "Ghanaian Fugu Smock",
+    "dress_type": "upperbody inner dress",
+    "description": "handwoven pullover smock with a round neckline, wide short sleeves to mid-forearm, straight hem at hip or thigh",
+    "traditional": true
+  },
+  {
+    "name": "Traje Maya (women's)",
+    "dress_type": "fullbody dress",
+    "description": "hand-woven huipil blouse paired with a long hand-loomed wrap skirt secured with a narrow woven belt",
+    "traditional": true
+  },
+  {
+    "name": "Ribbon Skirt",
+    "dress_type": "lowerbody dress",
+    "description": "wrap skirt falling waist to ankle with vertical ribbon strips sewn along the full length",
+    "traditional": true
+  },
+  {
+    "name": "Manta (Andean shawl)",
+    "dress_type": "shawl",
+    "description": "rectangular woven cloth draped over shoulders and back, fastened at the chest with a pin",
+    "traditional": true
+  },
+  {
+    "name": "Tipoy",
+    "dress_type": "fullbody dress",
+    "description": "sleeveless one-piece dress hanging loosely from the shoulders to the calves",
+    "traditional": true
+  },
+  {
+    "name": "Mexican Charro Suit",
+    "dress_type": "fullbody dress",
+    "description": "fitted jacket and high-waisted flared trousers with silver button trim, worn with a wide-brimmed hat",
+    "traditional": true
+  },
+  {
+    "name": "Tehuana Dress",
+    "dress_type": "fullbody dress",
+    "description": "wide squared-neckline blouse with a full-length matching skirt; Isthmus of Tehuantepec traditional dress",
+    "traditional": true
+  },
+  {
+    "name": "Cholita Dress",
+    "dress_type": "fullbody dress",
+    "description": "multiple layered petticoats under a wide A-line skirt, fitted blouse, fringed shoulder shawl, and a bowler hat",
+    "traditional": true
+  },
+  {
+    "name": "Argentine Gaucho Outfit",
+    "dress_type": "fullbody dress",
+    "description": "wide-leg pleated bombachas trousers tucked into tall boots, loose shirt, wide studded belt, and shoulder poncho",
+    "traditional": true
+  },
+  {
+    "name": "Lavalava (women's)",
+    "dress_type": "lowerbody dress",
+    "description": "rectangular cloth knotted at waist, worn as a knee to ankle-length wrap skirt",
+    "traditional": true
+  },
+  {
+    "name": "Lavalava (men's)",
+    "dress_type": "lowerbody dress",
+    "description": "rectangular cloth knotted at waist, worn as a knee-length wrap skirt",
+    "traditional": true
+  },
+  {
+    "name": "Puletasi",
+    "dress_type": "fullbody dress",
+    "description": "loose collarless blouse and matching long ankle-length wrap skirt in the same fabric",
+    "traditional": true
+  },
+  {
+    "name": "Hawaiian Aloha Shirt",
+    "dress_type": "upperbody inner dress",
+    "description": "loose short-sleeved shirt with a notched or camp collar and a button front",
+    "traditional": true
+  },
+  {
+    "name": "Hawaiian Muumuu",
+    "dress_type": "fullbody dress",
+    "description": "loose flowing dress from shoulder to ankle with a straight or slightly gathered silhouette",
+    "traditional": true
+  },
+  {
+    "name": "Tongan Ta'ovala",
+    "dress_type": "lowerbody dress",
+    "description": "pandanus-woven mat wrapped around the waist over clothing and tied at the front",
+    "traditional": true
+  },
+  {
+    "name": "Pencil Skirt",
+    "dress_type": "lowerbody dress",
+    "description": "form-fitting straight skirt hugging hips and thighs, tapering to a narrow hem at or below the knee",
+    "traditional": false
+  },
+  {
+    "name": "Sundress",
+    "dress_type": "fullbody dress",
+    "description": "lightweight dress with thin straps or strapless bodice and a loose flowing skirt to the knee or mid-thigh",
+    "traditional": false
+  },
+  {
+    "name": "Shirt Dress",
+    "dress_type": "fullbody dress",
+    "description": "dress styled as an oversized button-down shirt with a collared neckline and front button placket, knee to midi length",
+    "traditional": false
+  },
+  {
+    "name": "Mini Dress",
+    "dress_type": "fullbody dress",
+    "description": "short dress with hemline at mid-thigh in bodycon, A-line, or wrap silhouette",
+    "traditional": false
+  },
+  {
+    "name": "Midi Dress",
+    "dress_type": "fullbody dress",
+    "description": "dress with hemline between knee and ankle at mid-calf in wrap, tiered, or fitted silhouette",
+    "traditional": false
+  },
+  {
+    "name": "Off-Shoulder Top",
+    "dress_type": "upperbody inner dress",
+    "description": "top with an elastic neckline sitting below both shoulders, leaving them bare, with a straight or ruffled edge",
+    "traditional": false
+  },
+  {
+    "name": "Wide-Leg Pants",
+    "dress_type": "lowerbody dress",
+    "description": "high or mid-rise trousers with legs flaring dramatically from the hip to a wide ankle opening",
+    "traditional": false
+  },
+  {
+    "name": "Cardigan",
+    "dress_type": "upperbody flex dress",
+    "description": "open-front knitted sweater with long sleeves and a button or open center-front fastening",
+    "traditional": false
+  },
+  {
+    "name": "Women's Overalls",
+    "dress_type": "fullbody dress",
+    "description": "denim or cotton dungarees with a chest bib, adjustable shoulder straps, and multiple pockets, worn over a top",
+    "traditional": false
+  },
+  {
+    "name": "Little Black Dress",
+    "dress_type": "fullbody dress",
+    "description": "simple fitted or semi-fitted short to knee-length dress with a round or V neckline, short or no sleeves",
+    "traditional": false
+  },
+  {
+    "name": "Yoga Pants",
+    "dress_type": "lowerbody dress",
+    "description": "form-fitting full-length athletic leggings with a wide high-rise waistband",
+    "traditional": false
+  },
+  {
+    "name": "Sports Bra",
+    "dress_type": "upperbody inner dress",
+    "description": "supportive cropped athletic top ending just below the bust with wide straps and a wide elastic underbust band",
+    "traditional": false
+  },
+  {
+    "name": "Denim Shorts",
+    "dress_type": "lowerbody dress",
+    "description": "casual shorts cut from denim with frayed or hemmed edges sitting at the upper thigh",
+    "traditional": false
+  },
+  {
+    "name": "Knit Pullover",
+    "dress_type": "upperbody flex dress",
+    "description": "medium-weight crew-neck pullover with long sleeves in ribbed or smooth knit",
+    "traditional": false
+  },
+  {
+    "name": "Lace Dress",
+    "dress_type": "fullbody dress",
+    "description": "dress made from lace over a lining in a fitted or A-line silhouette with patterning across bodice and skirt",
+    "traditional": false
+  },
+  {
+    "name": "Floral Blouse",
+    "dress_type": "upperbody inner dress",
+    "description": "lightweight top with button front or pullover design and long or short sleeves, relaxed or fitted cut",
+    "traditional": false
+  },
+  {
+    "name": "Wrap Skirt",
+    "dress_type": "lowerbody dress",
+    "description": "skirt formed by wrapping fabric around the waist with a V-shaped front opening tied at the hip, knee or midi length",
+    "traditional": false
+  },
+  {
+    "name": "Romper",
+    "dress_type": "fullbody dress",
+    "description": "one-piece combining a top with attached very short shorts, with thin straps, strapless, or short-sleeved bodice",
+    "traditional": false
+  },
+  {
+    "name": "Mom Jeans",
+    "dress_type": "lowerbody dress",
+    "description": "high-waisted relaxed-fit denim jeans with a wide waistband above the natural waist and straight or tapered leg",
+    "traditional": false
+  },
+  {
+    "name": "Women's Puffer Vest",
+    "dress_type": "upperbody flex dress",
+    "description": "sleeveless quilted vest filled with insulation divided into horizontal quilted channels",
+    "traditional": false
+  },
+  {
+    "name": "Spaghetti Strap Dress",
+    "dress_type": "fullbody dress",
+    "description": "dress supported by two very thin shoulder straps with a loose or fitted bodice and flowing skirt to knee or ankle",
+    "traditional": false
+  },
+  {
+    "name": "Ruffle Top",
+    "dress_type": "upperbody inner dress",
+    "description": "blouse with layered or cascading ruffle trim along the neckline, sleeve edges, or front placket",
+    "traditional": false
+  },
+  {
+    "name": "Hoodie Dress",
+    "dress_type": "fullbody dress",
+    "description": "long dress styled as an oversized hoodie with a drawstring hood and kangaroo pocket, falling to mid-thigh or knee",
+    "traditional": false
+  },
+  {
+    "name": "One-Piece Swimsuit",
+    "dress_type": "fullbody dress",
+    "description": "single-piece swimwear covering torso from shoulders to hips with a scooped neckline and leg openings at the hips",
+    "traditional": false
+  },
+  {
+    "name": "Bikini",
+    "dress_type": "fullbody dress",
+    "description": "two-piece swimwear: small bra-style top and matching brief-style bottom tied or fastened at the sides",
+    "traditional": false
+  },
+  {
+    "name": "Bodysuit",
+    "dress_type": "upperbody inner dress",
+    "description": "form-fitting one-piece top covering torso from shoulders to crotch, fastening with snaps at the bottom",
+    "traditional": false
+  },
+  {
+    "name": "Women's Sweatpants",
+    "dress_type": "lowerbody dress",
+    "description": "relaxed-fit trousers with an elastic drawstring waistband and tapered or straight legs in fleece fabric",
+    "traditional": false
+  },
+  {
+    "name": "Bralette",
+    "dress_type": "upperbody inner dress",
+    "description": "soft unstructured top in triangle or bandeau shape with thin adjustable straps, no underwire",
+    "traditional": false
+  },
+  {
+    "name": "Oxford Shirt",
+    "dress_type": "upperbody inner dress",
+    "description": "button-down collar shirt in thick textured weave with a chest patch pocket and a straight hem",
+    "traditional": false
+  },
+  {
+    "name": "Flannel Shirt",
+    "dress_type": "upperbody inner dress",
+    "description": "casual soft-woven shirt with a relaxed fit, two chest pockets, and a straight hem",
+    "traditional": false
+  },
+  {
+    "name": "Linen Shirt",
+    "dress_type": "upperbody inner dress",
+    "description": "lightweight summer shirt with a relaxed fit, a camp or button-down collar, and a straight untucked hem",
+    "traditional": false
+  },
+  {
+    "name": "Formal Waistcoat",
+    "dress_type": "upperbody flex dress",
+    "description": "sleeveless V-neck button-front vest in suiting fabric with welt pockets and an adjustable back strap",
+    "traditional": false
+  },
+  {
+    "name": "Men's Puffer Jacket",
+    "dress_type": "upperbody flex dress",
+    "description": "insulated outer jacket with horizontal quilted channels, a zip front, and long sleeves",
+    "traditional": false
+  },
+  {
+    "name": "Leather Jacket",
+    "dress_type": "upperbody flex dress",
+    "description": "hip-length fitted jacket with an asymmetric front zip, a snap-tab collar, and zippered chest pockets",
+    "traditional": false
+  },
+  {
+    "name": "Turtleneck Sweater",
+    "dress_type": "upperbody flex dress",
+    "description": "close-fitting knitted pullover with a high cylindrical collar that folds over to cover the neck",
+    "traditional": false
+  },
+  {
+    "name": "Jogger Pants",
+    "dress_type": "lowerbody dress",
+    "description": "tapered trousers with an elastic drawstring waistband and ribbed elasticated cuffs at the ankle",
+    "traditional": false
+  },
+  {
+    "name": "Peacoat",
+    "dress_type": "upperbody flex dress",
+    "description": "double-breasted hip-length wool overcoat with wide notched lapels, two rows of large buttons, and vertical flap pockets",
+    "traditional": false
+  },
+  {
+    "name": "Quarter-Zip Pullover",
+    "dress_type": "upperbody flex dress",
+    "description": "pullover with a short zip running from chest to collar, long sleeves, and a straight hem",
+    "traditional": false
+  },
+  {
+    "name": "Windbreaker",
+    "dress_type": "upperbody flex dress",
+    "description": "lightweight water-resistant jacket with a zip front, elasticated cuffs and hem, and a packable hood",
+    "traditional": false
+  },
+  {
+    "name": "V-Neck T-Shirt",
+    "dress_type": "upperbody inner dress",
+    "description": "short-sleeved cotton top with a V-shaped neckline opening in a fitted or relaxed cut",
+    "traditional": false
+  },
+  {
+    "name": "Swim Trunks",
+    "dress_type": "lowerbody dress",
+    "description": "short swimming shorts with an elastic drawstring waistband and inner mesh lining, falling to mid-thigh",
+    "traditional": false
+  },
+  {
+    "name": "Sport Coat",
+    "dress_type": "upperbody flex dress",
+    "description": "single-breasted tailored jacket in tweed or herringbone with notched lapels and a relaxed fit",
+    "traditional": false
+  },
+  {
+    "name": "Crew Neck Sweatshirt",
+    "dress_type": "upperbody flex dress",
+    "description": "pullover with a round crew neckline, long sleeves, and ribbed hem and cuffs, no hood",
+    "traditional": false
+  },
+  {
+    "name": "Muscle Tee",
+    "dress_type": "upperbody inner dress",
+    "description": "sleeveless top with very wide deep armholes cut into the sides of the torso",
+    "traditional": false
+  },
+  {
+    "name": "Chino Shorts",
+    "dress_type": "lowerbody dress",
+    "description": "casual knee-length shorts in cotton twill with a flat or pleated waistband and a clean hemmed edge",
+    "traditional": false
+  },
+  {
+    "name": "Thermal Long-Sleeve Shirt",
+    "dress_type": "upperbody inner dress",
+    "description": "form-fitting base-layer top in waffle-knit or ribbed fabric with long sleeves and a crew or henley neckline",
+    "traditional": false
+  },
+  {
+    "name": "Men's Denim Overalls",
+    "dress_type": "fullbody dress",
+    "description": "denim dungarees with a square chest bib, adjustable shoulder straps, and loose straight-leg trousers",
+    "traditional": false
+  },
+  {
+    "name": "Basketball Shorts",
+    "dress_type": "lowerbody dress",
+    "description": "loose-fitting athletic shorts in mesh fabric falling to just above or below the knee with side vents",
+    "traditional": false
+  },
+  {
+    "name": "Dress Pants",
+    "dress_type": "lowerbody dress",
+    "description": "formal tailored trousers with a flat front or single pleat and a straight or slightly tapered leg",
+    "traditional": false
+  },
+  {
+    "name": "Men's Sweatpants",
+    "dress_type": "lowerbody dress",
+    "description": "relaxed-fit trousers with an elastic drawstring waistband and straight or tapered legs with ribbed or open cuff",
+    "traditional": false
+  },
+  {
+    "name": "Varsity Jacket",
+    "dress_type": "upperbody flex dress",
+    "description": "hip-length jacket with a wool body, contrasting leather sleeves, ribbed collar, cuffs, and hem, snap-button front",
+    "traditional": false
+  },
+  {
+    "name": "Raincoat",
+    "dress_type": "upperbody flex dress",
+    "description": "knee-length waterproof outer coat with a hood, snap or zip front, sealed seams, and large patch pockets",
+    "traditional": false
+  },
+  {
+    "name": "Dhoti",
+    "dress_type": "lowerbody dress",
+    "description": "rectangular unstitched cloth wrapped around waist and legs, one end tucked between legs in a draped trouser style",
+    "traditional": true
+  },
+  {
+    "name": "Overcoat",
+    "dress_type": "fullbody flex dress",
+    "description": "long formal outer coat reaching below the knee with notched lapels, structured shoulders, and button or double-breasted front",
+    "traditional": false
+  },
+  {
+    "name": "Parka",
+    "dress_type": "upperbody flex dress",
+    "description": "hip-to-thigh-length insulated hooded jacket with a zip-and-snap front, fur-trimmed hood, and large flap pockets",
+    "traditional": false
+  },
+  {
+    "name": "Gym Top",
+    "dress_type": "upperbody inner dress",
+    "description": "fitted sleeveless or short-sleeved athletic top in stretch fabric with a crew or scoop neckline",
+    "traditional": false
+  },
+  {
+    "name": "Lab Coat",
+    "dress_type": "fullbody flex dress",
+    "description": "knee-length white outer coat with a notched collar, long sleeves, button front, and patch pockets at chest and hip",
+    "traditional": false
+  },
+  {
+    "name": "Nightwear",
+    "dress_type": "fullbody dress",
+    "description": "loose-fitting two-piece pajama set with a button-front long-sleeved top and drawstring-waist straight-leg trousers",
+    "traditional": false
+  },
+  {
+    "name": "School Uniform",
+    "dress_type": "fullbody dress",
+    "description": "formal ensemble of a collared button-up shirt, blazer or sweater vest, and pleated skirt or tailored trousers",
+    "traditional": false
+  },
+  {
+    "name": "Traditional Dress",
+    "dress_type": "fullbody dress",
+    "description": "region-specific full-length or mid-length garment with culturally distinctive silhouette, closures, and draping",
+    "traditional": true
+  },
+  {
+    "name": "Traditional Robe",
+    "dress_type": "fullbody dress",
+    "description": "full-length loose robe with wide or straight sleeves, open or overlapping front, and a sash or belt closure",
+    "traditional": true
+  },
+  {
+    "name": "Work Uniform",
+    "dress_type": "fullbody dress",
+    "description": "matching shirt-and-trouser set in durable fabric with a collared button-front top and straight-leg pants",
+    "traditional": false
+  },
+  {
+    "name": "Abaya (loose black robe)",
+    "dress_type": "fullbody flex dress",
+    "description": "full-length loose open-front or closed over-robe with long sleeves, worn over other clothing",
+    "traditional": true
+  },
+  {
+    "name": "Athletic-wear (tracksuit)",
+    "dress_type": "fullbody dress",
+    "description": "matching zip-up jacket and elasticated trousers in fleece or nylon",
+    "traditional": false
+  },
+  {
+    "name": "Athletic-wear_tracksuit",
+    "dress_type": "fullbody dress",
+    "description": "matching zip-up jacket and elasticated trousers in fleece or nylon",
+    "traditional": false
+  },
+  {
+    "name": "Barong Tagalog (Filipino formal shirt)",
+    "dress_type": "upperbody inner dress",
+    "description": "formal untucked sheer long-sleeved shirt reaching hip length with a mandarin or open collar",
+    "traditional": true
+  },
+  {
+    "name": "Bomber jacket (short zip jacket)",
+    "dress_type": "upperbody flex dress",
+    "description": "hip-length jacket with ribbed collar, cuffs, and hem, a zip front, and long sleeves",
+    "traditional": false
+  },
+  {
+    "name": "Boubou (West African robe) (flowing wide-sleeved robe)",
+    "dress_type": "fullbody flex dress",
+    "description": "very wide floor-length open-sided outer robe with wide sleeves, worn over inner garments",
+    "traditional": true
+  },
+  {
+    "name": "Cargo pants (pants with pockets)",
+    "dress_type": "lowerbody dress",
+    "description": "straight or relaxed-leg trousers with large bellowed cargo pockets on the thighs",
+    "traditional": false
+  },
+  {
+    "name": "Coat",
+    "dress_type": "upperbody flex dress",
+    "description": "knee-length double-breasted outer coat with wide lapels, a storm flap, belted waist, and long sleeves",
+    "traditional": false
+  },
+  {
+    "name": "Cocktail dress (semi-formal short dress)",
+    "dress_type": "fullbody dress",
+    "description": "semi-formal knee-length dress in a fitted or A-line silhouette",
+    "traditional": false
+  },
+  {
+    "name": "Dashiki (colorful West African shirt)",
+    "dress_type": "upperbody inner dress",
+    "description": "loose pullover tunic reaching mid-thigh with a V-shaped neckline opening and short or long sleeves",
+    "traditional": true
+  },
+  {
+    "name": "Deel (traditional Mongol robe) (belted long robe)",
+    "dress_type": "fullbody dress",
+    "description": "full-length Mongolian robe with a round collar, overlapping front, long sleeves, secured with a sash",
+    "traditional": true
+  },
+  {
+    "name": "Deel_traditional_Mongol_robe",
+    "dress_type": "fullbody dress",
+    "description": "full-length Mongolian robe with a round collar, overlapping front, long sleeves, secured with a sash",
+    "traditional": true
+  },
+  {
+    "name": "Denim jacket (jean fabric jacket)",
+    "dress_type": "upperbody flex dress",
+    "description": "hip-length rigid denim jacket with button front, chest and hip pockets, and long sleeves",
+    "traditional": false
+  },
+  {
+    "name": "Dhoti (wrapped lower garment)",
+    "dress_type": "lowerbody dress",
+    "description": "rectangular unstitched cloth wrapped around waist and legs, one end tucked between legs in a draped trouser style",
+    "traditional": true
+  },
+  {
+    "name": "Dirndl (German folk dress)",
+    "dress_type": "fullbody dress",
+    "description": "tight low-cut bodice with a full gathered skirt below the knee, puff-sleeved blouse underneath, decorative apron at front",
+    "traditional": true
+  },
+  {
+    "name": "Dress (casual)",
+    "dress_type": "fullbody dress",
+    "description": "fitted at chest and waist, flaring gradually into an A-shape from hips to hem",
+    "traditional": false
+  },
+  {
+    "name": "Dress (formal)",
+    "dress_type": "fullbody dress",
+    "description": "full-length formal dress with a fitted bodice and flared or column skirt, often with a low back or neckline",
+    "traditional": false
+  },
+  {
+    "name": "Dress_casual",
+    "dress_type": "fullbody dress",
+    "description": "fitted at chest and waist, flaring gradually into an A-shape from hips to hem",
+    "traditional": false
+  },
+  {
+    "name": "Dress_formal",
+    "dress_type": "fullbody dress",
+    "description": "full-length formal dress with a fitted bodice and flared or column skirt, often with a low back or neckline",
+    "traditional": false
+  },
+  {
+    "name": "Evening gown (formal floor-length dress)",
+    "dress_type": "fullbody dress",
+    "description": "full-length formal dress with a fitted bodice and flared or column skirt, often with a low back or neckline",
+    "traditional": false
+  },
+  {
+    "name": "Guayabera shirt (pleated Cuban shirt)",
+    "dress_type": "upperbody inner dress",
+    "description": "straight-hem shirt with two vertical pleat rows on front and back, four pockets, short or long sleeves",
+    "traditional": true
+  },
+  {
+    "name": "Gym-top",
+    "dress_type": "upperbody inner dress",
+    "description": "fitted sleeveless or short-sleeved athletic top in stretch fabric with a crew or scoop neckline",
+    "traditional": false
+  },
+  {
+    "name": "Hanfu-style top (traditional Chinese robe top)",
+    "dress_type": "fullbody dress",
+    "description": "traditional Chinese robe with wide crossed collar, wide flowing sleeves, and a long skirt secured with ties or belt",
+    "traditional": true
+  },
+  {
+    "name": "Hanfu-style_top",
+    "dress_type": "fullbody dress",
+    "description": "traditional Chinese robe with wide crossed collar, wide flowing sleeves, and a long skirt secured with ties or belt",
+    "traditional": true
+  },
+  {
+    "name": "Hawaiian shirt (bright floral shirt)",
+    "dress_type": "upperbody inner dress",
+    "description": "loose short-sleeved shirt with a notched or camp collar and a button front",
+    "traditional": false
+  },
+  {
+    "name": "Jumpsuit (one-piece outfit)",
+    "dress_type": "fullbody dress",
+    "description": "one-piece garment with a top and full-length trousers joined at the waist",
+    "traditional": false
+  },
+  {
+    "name": "Kaftan (loose long tunic)",
+    "dress_type": "fullbody dress",
+    "description": "full-length long-sleeved loose robe with a front opening and a round or V neckline",
+    "traditional": true
+  },
+  {
+    "name": "Kebaya (fitted Southeast Asian blouse)",
+    "dress_type": "upperbody inner dress",
+    "description": "fitted long-sleeved blouse reaching hip or thigh with a front opening, worn over a wraparound skirt",
+    "traditional": true
+  },
+  {
+    "name": "Kente-wrapper",
+    "dress_type": "fullbody flex dress",
+    "description": "wide strip-woven cloth draped and wrapped around the full body over other garments; Ewe ceremonial wear",
+    "traditional": true
+  },
+  {
+    "name": "Kente-wrapper (Ghanaian woven cloth wrap)",
+    "dress_type": "fullbody flex dress",
+    "description": "wide strip-woven cloth draped and wrapped around the full body over other garments; Ewe ceremonial wear",
+    "traditional": true
+  },
+  {
+    "name": "Kimono (casual style)",
+    "dress_type": "fullbody dress",
+    "description": "T-shaped full-length robe with wide sleeves, wrapped left-over-right, secured with a wide sash at waist",
+    "traditional": true
+  },
+  {
+    "name": "Kimono_casual_style",
+    "dress_type": "fullbody dress",
+    "description": "T-shaped full-length robe with wide sleeves, wrapped left-over-right, secured with a wide sash at waist",
+    "traditional": true
+  },
+  {
+    "name": "Kurta",
+    "dress_type": "upperbody inner dress",
+    "description": "straight-cut tunic with side slits reaching knee length, long or short sleeves, mandarin or round collar",
+    "traditional": true
+  },
+  {
+    "name": "Kurta (long tunic shirt)",
+    "dress_type": "upperbody inner dress",
+    "description": "straight-cut tunic with side slits reaching knee length, long or short sleeves, mandarin or round collar",
+    "traditional": true
+  },
+  {
+    "name": "Kurta-pajama",
+    "dress_type": "fullbody dress",
+    "description": "knee-length tunic with long sleeves and side slits, worn over loose straight-leg trousers",
+    "traditional": true
+  },
+  {
+    "name": "Kurta-pajama (tunic with loose trousers)",
+    "dress_type": "fullbody dress",
+    "description": "knee-length tunic with long sleeves and side slits, worn over loose straight-leg trousers",
+    "traditional": true
+  },
+  {
+    "name": "Lab-coat",
+    "dress_type": "fullbody flex dress",
+    "description": "knee-length white outer coat with a notched collar, long sleeves, button front, and patch pockets at chest and hip",
+    "traditional": false
+  },
+  {
+    "name": "Lederhosen (German leather shorts)",
+    "dress_type": "lowerbody dress",
+    "description": "leather knee-length breeches with H-shaped suspenders crossing over the chest, with decorative panels on bib and thighs",
+    "traditional": true
+  },
+  {
+    "name": "Lungi (wrapped skirt-like cloth)",
+    "dress_type": "lowerbody dress",
+    "description": "cylindrical tube cloth wrapped at waist, falling to mid-calf or ankle",
+    "traditional": true
+  },
+  {
+    "name": "Maxi-dress",
+    "dress_type": "fullbody dress",
+    "description": "full-length women's dress falling to the ankle with varied sleeve and neckline styles",
+    "traditional": false
+  },
+  {
+    "name": "Maxi-dress (long ankle-length dress)",
+    "dress_type": "fullbody dress",
+    "description": "full-length women's dress falling to the ankle with varied sleeve and neckline styles",
+    "traditional": false
+  },
+  {
+    "name": "Nightwear (pajamas)",
+    "dress_type": "fullbody dress",
+    "description": "loose-fitting two-piece pajama set with a button-front long-sleeved top and drawstring-waist straight-leg trousers",
+    "traditional": false
+  },
+  {
+    "name": "Nightwear_pajamas",
+    "dress_type": "fullbody dress",
+    "description": "loose-fitting two-piece pajama set with a button-front long-sleeved top and drawstring-waist straight-leg trousers",
+    "traditional": false
+  },
+  {
+    "name": "Overcoat (long formal coat)",
+    "dress_type": "fullbody flex dress",
+    "description": "long formal outer coat reaching below the knee with notched lapels, structured shoulders, and button or double-breasted front",
+    "traditional": false
+  },
+  {
+    "name": "Parka (hooded winter jacket)",
+    "dress_type": "upperbody flex dress",
+    "description": "hip-to-thigh-length insulated hooded jacket with a zip-and-snap front, fur-trimmed hood, and large flap pockets",
+    "traditional": false
+  },
+  {
+    "name": "Parkas",
+    "dress_type": "upperbody flex dress",
+    "description": "hip-to-thigh-length insulated hooded jacket with a zip-and-snap front, fur-trimmed hood, and large flap pockets",
+    "traditional": false
+  },
+  {
+    "name": "Polo",
+    "dress_type": "upperbody inner dress",
+    "description": "short-sleeved collared shirt with a partial button placket at the front neckline, falling to the hip",
+    "traditional": false
+  },
+  {
+    "name": "Poncho (sleeveless over-garment)",
+    "dress_type": "upperbody flex dress",
+    "description": "rectangular or square cloth with a central neck opening, draped over shoulders falling to waist or hip",
+    "traditional": true
+  },
+  {
+    "name": "Puffer-jacket",
+    "dress_type": "upperbody flex dress",
+    "description": "insulated outer jacket with horizontal quilted channels, a zip front, and long sleeves",
+    "traditional": false
+  },
+  {
+    "name": "Puffer-jacket (quilted insulated jacket)",
+    "dress_type": "upperbody flex dress",
+    "description": "insulated outer jacket with horizontal quilted channels, a zip front, and long sleeves",
+    "traditional": false
+  },
+  {
+    "name": "Qipao/Cheongsam",
+    "dress_type": "fullbody dress",
+    "description": "form-fitting full-length dress with a high mandarin collar, side slits, sleeveless or short-sleeved",
+    "traditional": true
+  },
+  {
+    "name": "Qipao/Cheongsam (Chinese fitted dress)",
+    "dress_type": "fullbody dress",
+    "description": "form-fitting full-length dress with a high mandarin collar, side slits, sleeveless or short-sleeved",
+    "traditional": true
+  },
+  {
+    "name": "Salwar-Kameez",
+    "dress_type": "fullbody dress",
+    "description": "long tunic with side slits reaching below the hip, worn over loose tapered trousers gathered at ankle",
+    "traditional": true
+  },
+  {
+    "name": "Salwar-Kameez (tunic with loose pants)",
+    "dress_type": "fullbody dress",
+    "description": "long tunic with side slits reaching below the hip, worn over loose tapered trousers gathered at ankle",
+    "traditional": true
+  },
+  {
+    "name": "Sari (draped Indian garment)",
+    "dress_type": "fullbody dress",
+    "description": "long cloth draped around body with pleats at front waist, one end thrown over shoulder, worn with fitted blouse",
+    "traditional": true
+  },
+  {
+    "name": "School-uniform",
+    "dress_type": "fullbody dress",
+    "description": "formal ensemble of a collared button-up shirt, blazer or sweater vest, and pleated skirt or tailored trousers",
+    "traditional": false
+  },
+  {
+    "name": "Sherwani (long formal coat)",
+    "dress_type": "fullbody dress",
+    "description": "knee-length formal coat with a Nehru collar, button front, fitted at chest and slightly flared below the waist",
+    "traditional": true
+  },
+  {
+    "name": "Shirt",
+    "dress_type": "upperbody inner dress",
+    "description": "button-front collared shirt with long sleeves, a pointed collar, and a straight hem",
+    "traditional": false
+  },
+  {
+    "name": "Suit (two-piece)",
+    "dress_type": "fullbody dress",
+    "description": "matching tailored jacket and trousers in the same fabric with lapels and a button front",
+    "traditional": false
+  },
+  {
+    "name": "Suit_two-piece",
+    "dress_type": "fullbody dress",
+    "description": "matching tailored jacket and trousers in the same fabric with lapels and a button front",
+    "traditional": false
+  },
+  {
+    "name": "Sundress (light summer dress)",
+    "dress_type": "fullbody dress",
+    "description": "lightweight dress with thin straps or strapless bodice and a loose flowing skirt to the knee or mid-thigh",
+    "traditional": false
+  },
+  {
+    "name": "Sweater",
+    "dress_type": "upperbody flex dress",
+    "description": "thick cable-knit wool pullover with dense cable, honeycomb, and diamond stitches and a round crew neckline",
+    "traditional": false
+  },
+  {
+    "name": "Swimwear (one-piece)",
+    "dress_type": "fullbody dress",
+    "description": "single-piece swimwear covering torso from shoulders to hips with a scooped neckline and leg openings at the hips",
+    "traditional": false
+  },
+  {
+    "name": "Swimwear (two-piece)",
+    "dress_type": "fullbody dress",
+    "description": "two-piece swimwear: small bra-style top and matching brief-style bottom tied or fastened at the sides",
+    "traditional": false
+  },
+  {
+    "name": "Swimwear_one-piece",
+    "dress_type": "fullbody dress",
+    "description": "single-piece swimwear covering torso from shoulders to hips with a scooped neckline and leg openings at the hips",
+    "traditional": false
+  },
+  {
+    "name": "Swimwear_two-piece",
+    "dress_type": "fullbody dress",
+    "description": "two-piece swimwear: small bra-style top and matching brief-style bottom tied or fastened at the sides",
+    "traditional": false
+  },
+  {
+    "name": "T-shirt",
+    "dress_type": "upperbody inner dress",
+    "description": "short-sleeved pullover top with a round crew neckline, falling to the hip",
+    "traditional": false
+  },
+  {
+    "name": "Tank-top",
+    "dress_type": "upperbody inner dress",
+    "description": "sleeveless top with shoulder straps and a round or scooped neckline, falling to the hip",
+    "traditional": false
+  },
+  {
+    "name": "Thobe (long ankle-length robe)",
+    "dress_type": "fullbody dress",
+    "description": "full-length loose robe with long sleeves, collarless or small collar, and button front, falling to the ankle",
+    "traditional": true
+  },
+  {
+    "name": "Three-piece suit",
+    "dress_type": "fullbody dress",
+    "description": "formal matching jacket and trousers with satin lapels and a satin side stripe on the trouser leg",
+    "traditional": false
+  },
+  {
+    "name": "Traditional dress (regional descriptor allowed)",
+    "dress_type": "fullbody dress",
+    "description": "region-specific full-length or mid-length garment with culturally distinctive silhouette, closures, and draping",
+    "traditional": true
+  },
+  {
+    "name": "Traditional robe",
+    "dress_type": "fullbody dress",
+    "description": "full-length loose robe with wide or straight sleeves, open or overlapping front, and a sash or belt closure",
+    "traditional": true
+  },
+  {
+    "name": "Traditional_dress_regional_descriptor_allowed",
+    "dress_type": "fullbody dress",
+    "description": "region-specific full-length or mid-length garment with culturally distinctive silhouette, closures, and draping",
+    "traditional": true
+  },
+  {
+    "name": "Traditional_robe",
+    "dress_type": "fullbody dress",
+    "description": "full-length loose robe with wide or straight sleeves, open or overlapping front, and a sash or belt closure",
+    "traditional": true
+  },
+  {
+    "name": "Waistcoat (sleeveless suit vest)",
+    "dress_type": "upperbody flex dress",
+    "description": "sleeveless V-neck button-front vest in suiting fabric with welt pockets and an adjustable back strap",
+    "traditional": false
+  },
+  {
+    "name": "Work-uniform",
+    "dress_type": "fullbody dress",
+    "description": "matching shirt-and-trouser set in durable fabric with a collared button-front top and straight-leg pants",
+    "traditional": false
+  },
+  {
+    "name": "Yukata (light cotton kimono)",
+    "dress_type": "fullbody dress",
+    "description": "lightweight full-length robe with wide sleeves, wrapped left-over-right and secured with a sash at waist",
+    "traditional": true
+  }
+]

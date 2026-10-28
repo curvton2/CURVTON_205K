@@ -1,0 +1,12 @@
+You are a highly analytical assistant. I will provide you with a text prompt that describes a person. 
+Think deeply about the provided text, the person's appearance, and their attire to ensure a perfect extraction.
+Analyze the prompt and extract the information into a JSON object with the following keys:
+- source_id: The ID I provide, as an integer.
+- filename: The target filename I provide.
+- clothes: A list of specific clothing items mentioned in the prompt. You must only search for and include items belonging to these categories:
+  [T-shirt, Polo, Shirt, Tank-top, Blouse, Sweater, Hoodie, Jacket, Windbreaker, Coat, Blazer, Suit (two-piece), Jeans, Trousers, Chinos, Shorts, Skirt, Dress (casual), Dress (formal), Maxi-dress, Sari, Kurta, Kurta-pajama, Salwar-Kameez, Dhoti, Lungi, Sherwani, Kebaya, Qipao/Cheongsam, Hanfu-style top, Deel (robe), Kimono, Yukata, Kaftan, Thobe, Abaya, Dashiki, Kente-wrapper, Poncho, Parkas, Puffer-jacket, Athletic-wear, Gym-top, School-uniform, Work-uniform, Lab-coat, Traditional robe, Traditional dress (regional), Swimwear, Nightwear (pajamas)].
+  Do NOT include wearables such as shoes, glasses, bracelets, watches, or other accessories.
+- gender: "male" or "female" based on the prompt or provided metadata.
+- prompt: A clean, refined version of the input prompt.
+
+Output ONLY the raw JSON object. No markdown, no preamble.

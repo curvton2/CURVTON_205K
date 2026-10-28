@@ -1,0 +1,113 @@
+# configs/pretrained_metrics_datasets.yaml
+# ------------------------------------------
+# Multi-dataset config for compute_paper_metrics.py and extras/compute_all_metrics.py
+# Edit 'root' for each dataset. 'pred_dir' is ignored here.
+#
+# Run:
+#   python extras/compute_all_metrics.py \
+#       --config configs/pretrained_metrics_datasets.yaml
+
+defaults:
+  device: cuda
+  batch_size: 16
+  num_workers: 4
+  img_size: [512, 384]
+  split: test
+  # Selective metric flags (true = run, false = skip)
+  run_pose:    true
+  run_occ:     true
+  run_bg:      true
+  run_illum:   true
+  run_shape:   true
+  run_appear:  true
+  run_garment: true
+
+datasets:
+  # Qwen camera-edit control generation outputs
+  # Computes camera metrics for all difficulties and per-difficulty subsets.
+  - name: qwen_camera_results
+    root: PATH_TO_CAMERA_EDIT_RESULTS
+    split: all
+    run_pose: false
+    run_occ: false
+    run_bg: false
+    run_illum: false
+    run_shape: false
+    run_appear: false
+    run_garment: false
+    run_vae: false
+    run_camera: true
+  - name: qwen_camera_results
+    root: PATH_TO_CAMERA_EDIT_RESULTS/easy
+    split: easy
+    run_pose: false
+    run_occ: false
+    run_bg: false
+    run_illum: false
+    run_shape: false
+    run_appear: false
+    run_garment: false
+    run_vae: false
+    run_camera: true
+  - name: qwen_camera_results
+    root: PATH_TO_CAMERA_EDIT_RESULTS/medium
+    split: medium
+    run_pose: false
+    run_occ: false
+    run_bg: false
+    run_illum: false
+    run_shape: false
+    run_appear: false
+    run_garment: false
+    run_vae: false
+    run_camera: true
+  - name: qwen_camera_results
+    root: PATH_TO_CAMERA_EDIT_RESULTS/hard
+    split: hard
+    run_pose: false
+    run_occ: false
+    run_bg: false
+    run_illum: false
+    run_shape: false
+    run_appear: false
+    run_garment: false
+    run_vae: false
+    run_camera: true
+
+  - name: curvton
+    root: PATH_TO_DATASET_V3/dataset_ultimate_test
+    split: test
+  - name: curvton
+    root: PATH_TO_DATASET_V3/dataset_ultimate_test/easy
+    split: test
+  - name: curvton
+    root: PATH_TO_DATASET_V3/dataset_ultimate_test/medium
+    split: test
+  - name: curvton
+    root: PATH_TO_DATASET_V3/dataset_ultimate_test/hard
+    split: test
+
+  - name: viton_hd
+    root: PATH_TO_BENCHMARK_DATASETS/viton_hd
+    split: test
+
+  - name: dresscode
+    root: PATH_TO_BENCHMARK_DATASETS/dresscode
+    split: test
+    dresscode_category: all
+  - name: dresscode
+    root: PATH_TO_BENCHMARK_DATASETS/dresscode
+    split: test
+    dresscode_category: upper_body
+  - name: dresscode
+    root: PATH_TO_BENCHMARK_DATASETS/dresscode
+    split: test
+    dresscode_category: lower_body
+  - name: dresscode
+    root: PATH_TO_BENCHMARK_DATASETS/dresscode
+    split: test
+    dresscode_category: dresses
+
+  - name: street_tryon
+    root: PATH_TO_BENCHMARK_DATASETS/street_tryon
+    split: test        # maps to validation/ internally (no explicit test split)

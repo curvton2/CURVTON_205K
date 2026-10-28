@@ -1,0 +1,95 @@
+dataset_v3/
+│
+├── humans/
+│   ├── male/
+│   │   ├── HUMAN_M_000001.png
+│   │   ├── HUMAN_M_000002.png
+│   │   └── HUMAN_M_000003.png
+│   │
+│   └── female/
+│       ├── HUMAN_F_000004.png
+│       ├── HUMAN_F_000005.png
+│       └── HUMAN_F_000006.png
+│
+├── edited/
+│   ├── easy/
+│   │   ├── male/
+│   │   │   ├── HUMAN_M_000001_E01.png
+│   │   │   └── HUMAN_M_000002_E01.png
+│   │   │
+│   │   └── female/
+│   │       └── HUMAN_F_000004_E01.png
+│   │
+│   ├── medium/
+│   │   ├── male/
+│   │   │   └── HUMAN_M_000001_E02.png
+│   │   │
+│   │   └── female/
+│   │       └── HUMAN_F_000005_E01.png
+│   │
+│   └── hard/
+│       ├── male/
+│       │   └── HUMAN_M_000003_E01.png
+│       │
+│       └── female/
+│           └── HUMAN_F_000006_E02.png
+│
+├── clothes/
+│   ├── male/
+│   │   ├── CLOTH_M_000101.png
+│   │   └── CLOTH_M_000102.png
+│   │
+│   └── female/
+│       ├── CLOTH_F_000201.png
+│       └── CLOTH_F_000202.png
+│
+├── dataset_ultimate/
+	├── human.jsonl (combined from female.jsonl and male.jsonl)
+	├── easy/
+	│   ├── male/
+	│   │   ├── initial_person_image/
+	│   │   │   ├── HUMAN_M_000001_E01.png
+	│   │   │   └── HUMAN_M_000002_E01.png
+	│   │   ├── cloth_image/
+	│   │   │   ├── HUMAN_M_000001_E01_CLOTH_M_000101_UPPER.png
+	│   │   │   └── HUMAN_M_000002_E01_CLOTH_M_000102_LOWER.png
+	│   │   └── tryon_image/
+	│   │       ├── HUMAN_M_000001_E01_CLOTH_M_000101.png
+	│   │       └── HUMAN_M_000002_E01_CLOTH_M_000102.png
+	│   └── female/
+	│       ├── initial_person_image/
+	│       │   └── HUMAN_F_000004_E01.png
+	│       ├── cloth_image/
+	│       │   └── HUMAN_F_000004_E01_CLOTH_F_000201_UPPER.png
+	│       └── tryon_image/
+	│           └── HUMAN_F_000004_E01_CLOTH_F_000201.png
+	├── medium/
+	│   ├── male/
+	│   │   ├── initial_person_image/
+	│   │   │   └── HUMAN_M_000001_E02.png
+	│   │   ├── cloth_image/
+	│   │   │   └── HUMAN_M_000001_E02_CLOTH_M_000102_LOWER.png
+	│   │   └── tryon_image/
+	│   │       └── HUMAN_M_000001_E02_CLOTH_M_000102.png
+	│   └── female/
+	│       ├── initial_person_image/
+	│       │   └── HUMAN_F_000005_E01.png
+	│       ├── cloth_image/
+	│       │   └── HUMAN_F_000005_E01_CLOTH_F_000202_DRESS.png
+	│       └── tryon_image/
+	│           └── HUMAN_F_000005_E01_CLOTH_F_000202.png
+	└── hard/
+	    ├── male/
+	    │   ├── initial_person_image/
+	    │   │   └── HUMAN_M_000003_E01.png
+	    │   ├── cloth_image/
+	    │   │   └── HUMAN_M_000003_E01_CLOTH_M_000101_UPPER.png
+	    │   └── tryon_image/
+	    │       └── HUMAN_M_000003_E01_CLOTH_M_000101.png
+	    └── female/
+	        ├── initial_person_image/
+	        │   └── HUMAN_F_000006_E02.png
+	        ├── cloth_image/
+	        │   └── HUMAN_F_000006_E02_CLOTH_F_000202_DRESS.png
+	        └── tryon_image/
+	            └── HUMAN_F_000006_E02_CLOTH_F_000202.png

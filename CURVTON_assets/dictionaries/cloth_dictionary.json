@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Dirndl",
+    "region": "Bavaria (Germany) & Austria",
+    "description": "a fitted Alpine women's dress made of a tight low-cut bodice, a full gathered skirt falling below the knee in floral or checkered cotton, a white or pastel puff-sleeved blouse worn underneath, and a decorative apron tied at the front",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Lederhosen",
+    "region": "Bavaria (Germany) & Austria",
+    "description": "traditional Alpine leather knee-length breeches with H-shaped suspenders crossing over the chest, featuring decorative embroidery on the bib and thighs in brown or tan leather, worn with a checkered flannel shirt",
+    "dress_type": "lowerbody",
+    "gender": "male"
+  },
+  {
+    "name": "Kilt",
+    "region": "Scotland",
+    "description": "a knee-length pleated wrap-around skirt made of tartan-patterned wool, secured at the front with a flat apron panel fastened with a large decorative pin, in clan-specific plaid patterns of red, green, blue, or black",
+    "dress_type": "lowerbody",
+    "gender": "male"
+  },
+  {
+    "name": "Bunad (women's)",
+    "region": "Norway",
+    "description": "a Norwegian formal women's folk costume consisting of a long embroidered woolen skirt in dark red, black, or navy, a matching fitted bodice richly decorated with floral embroidery and silver clasps, and a white embroidered blouse underneath, worn for national day and formal celebrations",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Bunad (men's)",
+    "region": "Norway",
+    "description": "a Norwegian formal men's folk costume consisting of a dark short jacket with silver buttons, matching knee-length breeches in dark wool, a white embroidered shirt, and knee-high white stockings, worn for national day, weddings, and formal occasions",
+    "dress_type": "fullbody",
+    "gender": "male"
+  },
+  {
+    "name": "Sarafan",
+    "region": "Russia",
+    "description": "a traditional Russian women's sleeveless A-line pinafore dress, typically floor-length, worn over a long-sleeved embroidered white linen blouse, made in bright red, deep blue, or patterned cotton with braid trim along the neckline and hem",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Vyshyvanka (women's)",
+    "region": "Ukraine",
+    "description": "a traditional Ukrainian women's embroidered blouse made from white linen or cotton, densely covered in cross-stitch embroidery in red and black thread along the collar, sleeves, and chest, with regional floral or geometric motifs specific to each Ukrainian province",
+    "dress_type": "upper_inner",
+    "gender": "female"
+  },
+  {
+    "name": "Vyshyvanka (men's)",
+    "region": "Ukraine",
+    "description": "a traditional Ukrainian men's embroidered shirt in white linen or cotton, featuring bold geometric cross-stitch embroidery in red, black, or blue thread along the collar, cuffs, and chest placket, worn tucked into trousers or belted as everyday or ceremonial dress",
+    "dress_type": "upper_flex",
+    "gender": "male"
+  },
+  {
+    "name": "Flamenco Dress",
+    "region": "Andalusia, Spain",
+    "description": "a form-fitting Spanish women's dress with a tightly fitted bodice and hips that dramatically flare out from the knee into multiple layered ruffled tiers at the hem, in vivid solid colors like red, black, white, or polka-dot print, designed for freedom of movement in dance",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Gákti (women's)",
+    "region": "Sápmi (Northern Scandinavia)",
+    "description": "the traditional Sámi women's dress-length tunic in bright blue, red, or green wool falling to the mid-calf, richly decorated with colorful ribbon bands and pewter tin-thread embroidery along the hem, collar, and cuffs, worn with silver brooches and a distinctive pointed or flat-topped cap",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Gákti (men's)",
+    "region": "Sápmi (Northern Scandinavia)",
+    "description": "the traditional Sámi men's thigh-length tunic in bright blue, red, or green wool with colorful woven ribbon borders and pewter embroidery at the collar, hem, and cuffs, worn belted at the waist with a wide silver-buttoned belt over wool trousers and a square-topped cloth hat",
+    "dress_type": "upper_flex",
+    "gender": "male"
+  },
+  {
+    "name": "Amalia Dress",
+    "region": "Greece",
+    "description": "the traditional Greek women's national costume consisting of a loose white embroidered linen blouse with lace trim at the neck and wrists, worn under a richly embroidered dark blue or claret velvet jacket, paired with an ankle-length pleated silk skirt in azure or gold tones and a small tasseled cap",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Kosovorotka",
+    "region": "Russia & Eastern Europe",
+    "description": "a traditional Russian men's loose-fitting linen shirt with an asymmetric side-buttoning collar that opens to the left rather than the center, featuring embroidery along the collar, cuffs, and hem in red or contrasting thread, worn belted at the waist over trousers",
+    "dress_type": "upper_flex",
+    "gender": "male"
+  },
+  {
+    "name": "Breton Stripe Shirt",
+    "region": "France (Brittany)",
+    "description": "a classic French sailor's fitted pullover shirt in white cotton with evenly spaced horizontal navy blue stripes across the body and sleeves, a wide round Breton neckline, and three-quarter or full-length sleeves, originally from the French naval uniform tradition",
+    "dress_type": "upper_flex",
+    "gender": "male"
+  },
+  {
+    "name": "Aran Sweater",
+    "region": "Ireland (Aran Islands)",
+    "description": "a thick cream or off-white Irish cable-knit wool pullover sweater featuring a dense pattern of cable, honeycomb, and diamond stitches covering the chest, back, and sleeves, with a round or rolled crew neckline, traditionally hand-knitted by island families in County Galway",
+    "dress_type": "upper_flex",
+    "gender": "male"
+  },
+  {
+    "name": "Fair Isle Sweater",
+    "region": "Shetland Islands, Scotland",
+    "description": "a fitted knitted pullover sweater featuring colorful repeating geometric snowflake, diamond, and cross patterns in multiple colors — typically red, yellow, green, and white on a cream or navy background — in the traditional Shetland Islands knitting style",
+    "dress_type": "upper_flex",
+    "gender": "female"
+  },
+  {
+    "name": "Romanian Ie",
+    "region": "Romania",
+    "description": "a traditional Romanian women's white linen blouse with dense geometric or floral embroidery in red, black, and gold thread covering the shoulders, collar, and cuffs, with a wide round or square neckline and wide loose sleeves, considered a symbol of Romanian national identity",
+    "dress_type": "upper_inner",
+    "gender": "female"
+  },
+  {
+    "name": "Polish Krakowiak Dress",
+    "region": "Kraków, Poland",
+    "description": "a traditional Polish women's folk costume from the Kraków region consisting of a white embroidered blouse, a colorful striped or floral full ankle-length skirt, and a fitted red velvet bodice richly embroidered with floral motifs and decorated with silver or glass buttons and ribbon trim",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Scottish Tartan Dress",
+    "region": "Scotland",
+    "description": "a women's dress made from tartan-patterned wool in a clan-specific plaid pattern of red, green, blue, and black checks, styled as a sleeveless pinafore dress worn over a white blouse or as a fitted bodice with a full pleated midi skirt",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Hungarian Matyó Embroidered Dress",
+    "region": "Matyóföld, Hungary",
+    "description": "a traditional Hungarian women's white cotton dress or blouse from the Matyóföld region, densely covered in bold three-dimensional floral embroidery in vivid red, pink, and green thread featuring large roses and curved floral branches as the central motif",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Habesha Kemis",
+    "region": "Ethiopia & Eritrea",
+    "description": "a traditional Ethiopian women's ankle-length dress handwoven from white or off-white cotton, distinguished by a wide band of intricate colorful woven embroidery called tibeb in geometric cross patterns along the neckline, sleeve cuffs, and hem",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Netela (women's)",
+    "region": "Ethiopia & Eritrea",
+    "description": "a lightweight Ethiopian women's white cotton shawl with a decorative woven border in red, green, or gold at one end, draped over the head and shoulders for church attendance, ceremonies, and everyday use",
+    "dress_type": "fullbody_outer",
+    "gender": "female"
+  },
+  {
+    "name": "Netela (men's)",
+    "region": "Ethiopia & Eritrea",
+    "description": "a lightweight Ethiopian men's white cotton shawl with a colored woven border, draped over the shoulders and wrapped around the body for church attendance, funerals, and formal occasions, typically worn over a white shirt and trousers",
+    "dress_type": "fullbody_outer",
+    "gender": "male"
+  },
+  {
+    "name": "Kanga",
+    "region": "East Africa (Kenya, Tanzania, Uganda)",
+    "description": "a brightly colored East African women's rectangular cotton cloth printed with bold geometric or floral designs in vivid orange, red, and yellow tones, worn wrapped around the waist as a skirt, draped over the shoulder, or tied over the head, typically printed with a Swahili proverb along the border",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Kitenge Dress",
+    "region": "Central & East Africa",
+    "description": "a women's dress tailored from African wax-print cotton fabric featuring bold repeating geometric or abstract patterns in vivid colors, commonly styled by local tailors as a fitted peplum top with a pencil skirt, a wrap dress, or a full-length maxi dress",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Gomesi",
+    "region": "Uganda, Rwanda, Tanzania",
+    "description": "a formal Ugandan women's long dress with a distinctive square neckline, short puffed sleeves, and a straight skirt falling to the ankles, made from brightly colored or patterned cotton or silk, cinched with a wide sash tied below the bust and draped into a side tail at the waist",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Kaba and Slit",
+    "region": "Ghana & West Africa",
+    "description": "a Ghanaian women's two-piece outfit consisting of a fitted blouse (kaba) with a unique tailored neckline and a matching long wrap skirt (slit) secured at the waist, both cut from the same wax-print ankara fabric",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Gandoura",
+    "region": "North Africa (Algeria, Morocco, Tunisia)",
+    "description": "a traditional North African men's loose collarless tunic falling to the knees or ankles, with wide or no sleeves, made from lightweight cotton or linen in solid white or cream, worn as comfortable everyday dress or as an underlayer beneath outer robes",
+    "dress_type": "fullbody",
+    "gender": "male"
+  },
+  {
+    "name": "Aso-Oke Wrapper (women's)",
+    "region": "Nigeria (Yoruba)",
+    "description": "a prestigious Yoruba women's ceremonial outfit made from hand-woven strip cloth in three pieces — a wide sculptural head wrap (gele), a shoulder cloth (ipele), and a waist wrapper (iro) — all in geometric-patterned woven silk or cotton in rich navy blue, gold-tan, or deep red",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Moroccan Caftan",
+    "region": "Morocco",
+    "description": "a traditional Moroccan women's long formal robe in silk or brocade, featuring intricate embroidery along the neckline, front panel, and hem in gold or silver thread, a deep V or round collar, and long sleeves, in jewel tones like emerald green, royal blue, or deep red, worn for weddings and celebrations",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Egyptian Galabiya",
+    "region": "Egypt",
+    "description": "a traditional Egyptian men's long loose-fitting robe falling to the ankles with long sleeves, a round or V-neckline, and no collar, made from white or off-white cotton or linen fabric, worn as everyday dress across Egypt and the broader Nile region",
+    "dress_type": "fullbody",
+    "gender": "male"
+  },
+  {
+    "name": "Ndebele Ceremonial Dress",
+    "region": "South Africa (Ndebele)",
+    "description": "a traditional South African Ndebele women's ceremonial dress featuring a stiff beaded rectangular front apron adorned with bold geometric patterns in bright primary colors of red, yellow, green, and blue beadwork, worn with stacked brass or copper neck and leg rings and a beaded blanket draped over the back",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Rwandan Mushanana",
+    "region": "Rwanda",
+    "description": "a traditional Rwandan women's formal garment consisting of a long piece of brightly colored silk or satin fabric draped from one shoulder diagonally across the body as a decorative sash, worn over a matching long fitted dress or skirt in the same solid jewel tone",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Ghanaian Fugu Smock",
+    "region": "Northern Ghana",
+    "description": "a traditional Ghanaian men's handwoven pullover smock shirt in coarse strip-woven cloth featuring narrow vertical black-and-white or multicolor stripes, with a round neckline, wide short sleeves falling to mid-forearm, and a straight hem falling to the hip or thigh",
+    "dress_type": "upper_flex",
+    "gender": "male"
+  },
+  {
+    "name": "Traje Maya (women's)",
+    "region": "Guatemala & Southern Mexico (Maya)",
+    "description": "the traditional Maya women's outfit of Guatemala consisting of a hand-woven huipil blouse richly embroidered with geometric animal and floral motifs in vivid colors, paired with a corte (a long hand-loomed wrap skirt in striped or patterned fabric) secured with a narrow woven belt called a faja",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Ribbon Skirt",
+    "region": "North America (Indigenous — many nations)",
+    "description": "a traditional and contemporary Indigenous North American women's wrap skirt made from broadcloth or cotton in solid or patterned fabric, decorated with vertical ribbon strips in contrasting colors sewn along the full length, falling from the waist to the ankles",
+    "dress_type": "lowerbody",
+    "gender": "female"
+  },
+  {
+    "name": "Manta (Andean shawl)",
+    "region": "Peru, Bolivia, Ecuador (Quechua/Aymara)",
+    "description": "a traditional Andean women's rectangular shawl woven from wool or alpaca fiber in bold horizontal stripes of red, orange, yellow, and green, draped over the shoulders and back and fastened at the chest with a decorative pin, used to carry goods or a baby tied to the back",
+    "dress_type": "fullbody_outer",
+    "gender": "female"
+  },
+  {
+    "name": "Tipoy",
+    "region": "Paraguay & Northeast Argentina (Guaraní)",
+    "description": "a traditional Guaraní women's one-piece sleeveless dress hanging loosely from the shoulders to the calves, made from white or light-colored cotton, sometimes decorated with nanduti lace needlework along the neckline and hem",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Mexican Charro Suit",
+    "region": "Mexico",
+    "description": "a traditional Mexican men's formal horseman's outfit consisting of a fitted jacket and high-waisted flared trousers both made from dark wool or suede, richly decorated with silver buttons, intricate embroidery, and metallic braid trim along all seams, worn with a wide-brimmed charro sombrero",
+    "dress_type": "fullbody",
+    "gender": "male"
+  },
+  {
+    "name": "Tehuana Dress",
+    "region": "Oaxaca, Mexico (Tehuantepec)",
+    "description": "a traditional Mexican women's dress from the Isthmus of Tehuantepec consisting of a richly embroidered velvet or satin blouse with a wide squared neckline densely covered in colorful floral embroidery, paired with a full-length skirt in matching fabric, made famous internationally through Frida Kahlo's self-portraits",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Cholita Dress",
+    "region": "Bolivia & Peru (Aymara)",
+    "description": "a traditional Bolivian Aymara women's everyday outfit consisting of multiple layered petticoats under a wide A-line wool skirt in solid or striped fabric, a fitted blouse, a fringed rectangular shawl pinned at the chest, and a small brown or black bowler hat perched at an angle on the head",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Argentine Gaucho Outfit",
+    "region": "Argentina & Uruguay",
+    "description": "a traditional South American horseman's outfit consisting of wide-leg pleated trousers called bombachas tucked into tall leather boots, a loose cotton shirt, a wide leather belt with decorative silver studs, and a wool poncho draped over the shoulders or a short jacket",
+    "dress_type": "fullbody",
+    "gender": "male"
+  },
+  {
+    "name": "Lavalava (women's)",
+    "region": "Samoa, Tonga, Polynesia",
+    "description": "a Polynesian women's rectangular wrap-around cloth knotted at the waist and worn as a knee-to-ankle-length skirt, in bright tropical floral prints or traditional geometric siapo patterns, in cotton or rayon in vivid colors",
+    "dress_type": "lowerbody",
+    "gender": "female"
+  },
+  {
+    "name": "Lavalava (men's)",
+    "region": "Samoa, Tonga, Polynesia",
+    "description": "a Polynesian men's rectangular wrap-around cloth knotted at the waist and worn as a knee-length skirt, typically in solid navy, black, or bold plaid patterns, worn as everyday or formal dress paired with a collared shirt",
+    "dress_type": "lowerbody",
+    "gender": "male"
+  },
+  {
+    "name": "Puletasi",
+    "region": "Samoa & Polynesia",
+    "description": "a traditional Samoan women's formal two-piece outfit consisting of a loose collarless blouse and a matching long wrap skirt falling to the ankles, both cut from the same printed or solid cotton fabric, worn for church, formal events, and cultural ceremonies",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Hawaiian Aloha Shirt",
+    "region": "Hawaii, USA",
+    "description": "a loose-fitting men's short-sleeved shirt made from lightweight rayon or cotton in bold tropical prints featuring hibiscus flowers, palm trees, or ocean waves in vivid colors on a white, red, or blue background, worn unbuttoned over a t-shirt or buttoned as a casual dress shirt",
+    "dress_type": "upper_flex",
+    "gender": "male"
+  },
+  {
+    "name": "Hawaiian Muumuu",
+    "region": "Hawaii, USA",
+    "description": "a loose, flowing Hawaiian women's dress with a straight or slightly gathered silhouette hanging from the shoulders to the ankles, made from lightweight cotton in bold tropical floral prints of hibiscus, bird of paradise, or plumeria in vivid red, yellow, green, and blue",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Tongan Ta'ovala",
+    "region": "Tonga",
+    "description": "a traditional Tongan men's formal pandanus-woven mat worn wrapped around the waist over other clothing as a sign of respect and status, tied at the front with a cord, in a rectangular shape in natural beige tones with geometric woven patterns",
+    "dress_type": "lowerbody",
+    "gender": "male"
+  },
+  {
+    "name": "Pencil Skirt",
+    "region": "Modern (Global)",
+    "description": "a women's form-fitting straight skirt that hugs the hips and thighs and tapers to a narrow hem at or just below the knee, typically in solid wool, cotton, or polyester in black, navy, or neutral tones, worn as professional or smart-casual attire",
+    "dress_type": "lowerbody",
+    "gender": "female"
+  },
+  {
+    "name": "Sundress",
+    "region": "Modern (Global)",
+    "description": "a lightweight women's casual dress with thin shoulder straps or a strapless bodice and a loose flowing skirt falling to the knee or mid-thigh, in floral, striped, or solid lightweight cotton or rayon fabric, designed for warm weather",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Shirt Dress",
+    "region": "Modern (Global)",
+    "description": "a women's dress styled like an oversized button-down shirt, with a collared neckline, front button placket, and optional waist tie or belt, falling to the knee or midi length in cotton, chambray, or linen",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Mini Dress",
+    "region": "Modern (Global)",
+    "description": "a women's short dress with a hemline falling significantly above the knee at mid-thigh, available in bodycon, A-line, or wrap silhouettes in solid, patterned, or sequined fabric for casual or party wear",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Midi Dress",
+    "region": "Modern (Global)",
+    "description": "a women's dress with a hemline falling between the knee and the ankle at mid-calf length, in flowing fabrics like chiffon, jersey, or satin, available in wrap, tiered, or fitted silhouettes for smart-casual or formal occasions",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Off-Shoulder Top",
+    "region": "Modern (Global)",
+    "description": "a women's top with an elastic or fitted neckline that sits below both shoulders leaving them fully bare, with a straight-across or ruffled edge, made from jersey, cotton, or chiffon in solid or printed patterns",
+    "dress_type": "upper_inner",
+    "gender": "female"
+  },
+  {
+    "name": "Wide-Leg Pants",
+    "region": "Modern (Global)",
+    "description": "women's high or mid-rise trousers with legs that flare out dramatically from the hip to a wide opening at the ankle, in flowy fabrics like chiffon, linen, or crepe in solid or patterned prints, worn for smart-casual or formal occasions",
+    "dress_type": "lowerbody",
+    "gender": "female"
+  },
+  {
+    "name": "Cardigan",
+    "region": "Modern (Global)",
+    "description": "a women's open-front knitted sweater with long sleeves and a button or open fastening down the center front, in lightweight to chunky knit wool, cotton, or acrylic, worn over a top as a warm layering piece in casual or office settings",
+    "dress_type": "upper_outer",
+    "gender": "female"
+  },
+  {
+    "name": "Women's Overalls",
+    "region": "Modern (Global)",
+    "description": "women's full-body denim or cotton dungarees with a chest bib, adjustable shoulder straps crossing at the back, and multiple utility pockets, worn over a t-shirt or crop top, available in fitted or relaxed leg cuts as casual or streetwear fashion",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Little Black Dress",
+    "region": "Modern (Global)",
+    "description": "a simple, iconic women's short to knee-length dress in solid black fabric, typically in a fitted or semi-fitted silhouette with a round or V neckline and short or no sleeves, considered a universal wardrobe staple for evening, cocktail, and smart-casual occasions",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Yoga Pants",
+    "region": "Modern (Global)",
+    "description": "women's form-fitting full-length athletic leggings in stretchy moisture-wicking fabric, typically in solid black or dark navy, with a wide high-rise waistband and a smooth seamless finish, designed for yoga, gym, and athleisure wear",
+    "dress_type": "lowerbody",
+    "gender": "female"
+  },
+  {
+    "name": "Sports Bra",
+    "region": "Modern (Global)",
+    "description": "a women's supportive athletic top that covers the chest in a cropped silhouette ending just below the bust, with wide shoulder straps, a wide elastic underbust band, and a smooth or racerback design in stretchy nylon or spandex fabric in solid or color-blocked patterns, worn for exercise or as a crop top",
+    "dress_type": "upper_inner",
+    "gender": "female"
+  },
+  {
+    "name": "Denim Shorts",
+    "region": "Modern (Global)",
+    "description": "women's casual shorts cut from blue denim fabric with frayed or neatly hemmed edges sitting at the upper thigh, featuring a front button and zip, belt loops, and front and back pockets, worn as casual warm-weather attire",
+    "dress_type": "lowerbody",
+    "gender": "female"
+  },
+  {
+    "name": "Knit Pullover",
+    "region": "Modern (Global)",
+    "description": "a women's medium-weight crew-neck pullover in ribbed or smooth-knit wool or acrylic in a solid color, with long sleeves and a relaxed or fitted silhouette, worn as a warm casual top paired with jeans or a skirt",
+    "dress_type": "upper_flex",
+    "gender": "female"
+  },
+  {
+    "name": "Lace Dress",
+    "region": "Modern (Global)",
+    "description": "a women's dress made entirely or partly from lace fabric over a lining, typically in white, ivory, or black, with a fitted or A-line silhouette and delicate floral or geometric lace patterning across the bodice and skirt, worn for weddings, parties, or formal occasions",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Floral Blouse",
+    "region": "Modern (Global)",
+    "description": "a lightweight women's top made from chiffon, silk, or cotton printed with an allover floral pattern in multiple colors on a white, black, or pastel background, with a relaxed or fitted cut, a button front or pullover design, and long or short sleeves",
+    "dress_type": "upper_inner",
+    "gender": "female"
+  },
+  {
+    "name": "Wrap Skirt",
+    "region": "Modern (Global)",
+    "description": "a women's skirt formed by wrapping a rectangular piece of fabric around the waist and securing it with a tie or button at the hip, in a floral or solid pattern falling to the knee or midi length in cotton or chiffon fabric, creating a V-shaped opening at the front",
+    "dress_type": "lowerbody",
+    "gender": "female"
+  },
+  {
+    "name": "Romper",
+    "region": "Modern (Global)",
+    "description": "a women's one-piece short jumpsuit combining a fitted or loose top with attached very short shorts, in floral or solid lightweight cotton or denim, with thin straps, a strapless, or short-sleeved top portion, worn as casual warm-weather attire",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Mom Jeans",
+    "region": "Modern (Global)",
+    "description": "women's high-waisted relaxed-fit blue denim jeans with a wide waistband sitting at or above the natural waist, a straight or slightly tapered leg, and a cropped or full-length hem, in light to mid-wash blue denim with visible stitching and a vintage-inspired silhouette",
+    "dress_type": "lowerbody",
+    "gender": "female"
+  },
+  {
+    "name": "Women's Puffer Vest",
+    "region": "Modern (Global)",
+    "description": "a women's sleeveless quilted outerwear vest filled with down or synthetic insulation and divided into horizontal quilted channels, in a nylon or polyester shell in solid pink, black, red, or navy, worn over a long-sleeve shirt as a casual warm outer layer",
+    "dress_type": "upper_outer",
+    "gender": "female"
+  },
+  {
+    "name": "Spaghetti Strap Dress",
+    "region": "Modern (Global)",
+    "description": "a lightweight women's dress supported by two very thin spaghetti straps over the shoulders, with a loose or fitted bodice and a flowing skirt falling to the knee or ankle, in solid or floral cotton, silk, or satin fabric, worn as casual or evening dress",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Ruffle Top",
+    "region": "Modern (Global)",
+    "description": "a women's blouse or top featuring layered or cascading ruffle trim along the neckline, sleeve edges, or front placket, in lightweight chiffon or crepe fabric in solid or printed patterns, creating a feminine and decorative effect at the collar and cuffs",
+    "dress_type": "upper_inner",
+    "gender": "female"
+  },
+  {
+    "name": "Hoodie Dress",
+    "region": "Modern (Global)",
+    "description": "a women's casual long dress styled like an oversized hoodie, in French terry or fleece fabric with a front kangaroo pocket, a drawstring hood, and a straight or A-line hem falling to the mid-thigh or knee, in solid grey, black, or pastel tones",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "One-Piece Swimsuit",
+    "region": "Modern (Global)",
+    "description": "a women's single-piece swimwear garment covering the torso from the shoulders to the hips, with a scooped or V neckline, thin or wide straps, a high or low-cut back, and leg openings at the hips, in solid colors, stripes, or floral prints in stretchy nylon or spandex fabric",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Bikini",
+    "region": "Modern (Global)",
+    "description": "a women's two-piece swimwear set consisting of a small bra-style top covering only the chest and a matching brief-style bottom sitting at the hips, in solid, printed, or patterned stretchy fabric, tied or fastened at the back and sides",
+    "dress_type": "fullbody",
+    "gender": "female"
+  },
+  {
+    "name": "Bodysuit",
+    "region": "Modern (Global)",
+    "description": "a women's form-fitting one-piece top that covers the torso from the shoulders to the crotch and fastens with snaps at the bottom, in jersey, ribbed cotton, or lace fabric in solid colors, worn as an everyday top paired with jeans or skirts",
+    "dress_type": "upper_inner",
+    "gender": "female"
+  },
+  {
+    "name": "Women's Sweatpants",
+    "region": "Modern (Global)",
+    "description": "women's relaxed-fit casual trousers with a soft elastic drawstring waistband and tapered or straight legs in fleece-lined cotton or French terry fabric in solid grey, black, or pastel tones, worn as loungewear or casual everyday attire",
+    "dress_type": "lowerbody",
+    "gender": "female"
+  },
+  {
+    "name": "Bralette",
+    "region": "Modern (Global)",
+    "description": "a women's soft unstructured bra-style top with no underwire, made from lace, ribbed cotton, or satin in a simple triangle or bandeau shape with thin adjustable straps, worn as a visible top layer under sheer tops or jackets or alone as a casual crop top",
+    "dress_type": "upper_inner",
+    "gender": "female"
+  },
+  {
+    "name": "Oxford Shirt",
+    "region": "Modern (Global)",
+    "description": "a men's casual-formal button-down shirt made from thick textured Oxford-weave cotton, typically in white, light blue, or pale pink, with a button-down collar, a chest patch pocket, and a straight hem worn tucked in for work or untucked for smart-casual occasions",
+    "dress_type": "upper_flex",
+    "gender": "male"
+  },
+  {
+    "name": "Flannel Shirt",
+    "region": "Modern (Global)",
+    "description": "a men's casual soft-woven cotton or wool shirt in a bold plaid or buffalo check pattern, typically in red-black, green-black, or blue-black color combinations, with a relaxed fit, two chest pockets, and a straight hem worn open over a t-shirt or buttoned up",
+    "dress_type": "upper_flex",
+    "gender": "male"
+  },
+  {
+    "name": "Linen Shirt",
+    "region": "Modern (Global)",
+    "description": "a men's lightweight summer shirt made from breathable linen fabric in solid white, ecru, or pastel tones, with a relaxed fit, a camp or button-down collar, and a straight hem worn untucked as smart-casual dress in warm climates",
+    "dress_type": "upper_flex",
+    "gender": "male"
+  },
+  {
+    "name": "Formal Waistcoat",
+    "region": "Modern (Global)",
+    "description": "a men's sleeveless V-neck button-front vest worn over a dress shirt as part of a three-piece suit or as a standalone layer, in matching wool or cotton suiting fabric in navy, charcoal, or black, with a fitted silhouette, welt pockets, and an adjustable back strap",
+    "dress_type": "upper_outer",
+    "gender": "male"
+  },
+  {
+    "name": "Men's Puffer Jacket",
+    "region": "Modern (Global)",
+    "description": "a men's insulated outerwear jacket filled with down or synthetic padding and divided into horizontal quilted channels giving it a puffed segmented appearance, in a nylon or polyester shell in solid black, navy, or bold primary colors, worn as a warm casual outer layer over a sweater or hoodie",
+    "dress_type": "upper_outer",
+    "gender": "male"
+  },
+  {
+    "name": "Leather Jacket",
+    "region": "Modern (Global)",
+    "description": "a men's hip-length fitted outerwear jacket made from genuine or faux leather in black or dark brown, typically in a biker silhouette with an asymmetric front zip, a snap-tab collar, zippered chest pockets, and buckled cuffs",
+    "dress_type": "upper_outer",
+    "gender": "male"
+  },
+  {
+    "name": "Turtleneck Sweater",
+    "region": "Modern (Global)",
+    "description": "a men's close-fitting knitted pullover with a high cylindrical collar that folds over itself to cover the neck, in medium to thick wool, cashmere, or acrylic in solid black, grey, cream, or navy, worn as a smart-casual or formal layering piece",
+    "dress_type": "upper_flex",
+    "gender": "male"
+  },
+  {
+    "name": "Jogger Pants",
+    "region": "Modern (Global)",
+    "description": "men's casual tapered trousers with an elastic drawstring waistband and ribbed elasticated cuffs at the ankle, in French terry, fleece, or technical fabric in solid grey marl, black, or navy, designed for athletic, gym, or loungewear use",
+    "dress_type": "lowerbody",
+    "gender": "male"
+  },
+  {
+    "name": "Peacoat",
+    "region": "Modern (Global)",
+    "description": "a men's double-breasted hip-length wool overcoat in solid navy or charcoal, with wide notched lapels, two rows of large anchor or horn buttons down the front, vertical flap pockets, and a straight hem, originating from naval uniform tradition and worn as a classic cold-weather outer coat",
+    "dress_type": "upper_outer",
+    "gender": "male"
+  },
+  {
+    "name": "Quarter-Zip Pullover",
+    "region": "Modern (Global)",
+    "description": "a men's athletic or casual knitted pullover with a short zip running from the chest to the collar that can be opened to adjust ventilation, in a smooth or textured fleece or performance fabric in solid grey, navy, or dark green, with long sleeves and a straight hem",
+    "dress_type": "upper_flex",
+    "gender": "male"
+  },
+  {
+    "name": "Windbreaker",
+    "region": "Modern (Global)",
+    "description": "a men's lightweight water-resistant outer jacket made from thin nylon or polyester fabric, featuring a zip-up front, elasticated cuffs and hem, and sometimes a packable hood, in solid or color-blocked bright colors like yellow, red, or electric blue, worn as a casual layer against light rain and wind",
+    "dress_type": "upper_outer",
+    "gender": "male"
+  },
+  {
+    "name": "V-Neck T-Shirt",
+    "region": "Modern (Global)",
+    "description": "a men's short-sleeved casual top in soft cotton jersey fabric with a V-shaped neckline opening at the center front, in a fitted or relaxed cut, in solid white, grey, black, or navy, worn as a basic everyday garment",
+    "dress_type": "upper_inner",
+    "gender": "male"
+  },
+  {
+    "name": "Swim Trunks",
+    "region": "Modern (Global)",
+    "description": "men's casual short swimming shorts with an elastic drawstring waistband, a quick-dry nylon or polyester outer shell, an inner mesh lining, and side slash pockets, in bold tropical prints, solid colors, or plaid patterns, falling to mid-thigh",
+    "dress_type": "lowerbody",
+    "gender": "male"
+  },
+  {
+    "name": "Sport Coat",
+    "region": "Modern (Global)",
+    "description": "a men's single-breasted tailored jacket in tweed, herringbone, or plaid wool fabric, with notched lapels, two or three buttons, and a relaxed fit, worn open over a dress shirt or casual top as a smart-casual outer layer separate from a matching trouser suit",
+    "dress_type": "upper_outer",
+    "gender": "male"
+  },
+  {
+    "name": "Crew Neck Sweatshirt",
+    "region": "Modern (Global)",
+    "description": "a men's casual pullover top with a round crew neckline, long sleeves, a ribbed hem and cuffs, and no zipper or hood, made from cotton fleece or French terry fabric in solid grey, black, white, or college-print graphics, worn as a comfortable everyday casual layer",
+    "dress_type": "upper_flex",
+    "gender": "male"
+  },
+  {
+    "name": "Muscle Tee",
+    "region": "Modern (Global)",
+    "description": "a men's sleeveless athletic or casual top with a very wide armhole cut deep into the sides of the torso, made from lightweight jersey cotton in solid white, black, or grey, worn as gym wear or as a casual summer top",
+    "dress_type": "upper_inner",
+    "gender": "male"
+  },
+  {
+    "name": "Chino Shorts",
+    "region": "Modern (Global)",
+    "description": "men's casual knee-length shorts made from lightweight twill or chino cotton fabric in solid khaki, beige, navy, or olive green, with a flat-front or pleated waistband, belt loops, front slash pockets, and a clean hemmed edge",
+    "dress_type": "lowerbody",
+    "gender": "male"
+  },
+  {
+    "name": "Thermal Long-Sleeve Shirt",
+    "region": "Modern (Global)",
+    "description": "a men's form-fitting base-layer top made from waffle-knit or ribbed thermal cotton in solid white, grey, or navy, with long sleeves and a crew or henley neckline, worn as an inner layer under shirts or jackets for warmth in cold weather",
+    "dress_type": "upper_inner",
+    "gender": "male"
+  },
+  {
+    "name": "Men's Denim Overalls",
+    "region": "Modern (Global)",
+    "description": "men's full-body indigo denim dungarees with a square chest bib featuring a chest pocket, adjustable shoulder straps crossing at the back, and loose straight-leg trousers with multiple utility pockets, worn over a t-shirt as casual or workwear fashion",
+    "dress_type": "fullbody",
+    "gender": "male"
+  },
+  {
+    "name": "Basketball Shorts",
+    "region": "Modern (Global)",
+    "description": "men's loose-fitting athletic shorts in lightweight mesh polyester falling to just above or below the knee, with an elastic drawstring waistband, side vents at the hem, and often large team logo prints or solid colors in black, red, blue, or white, worn for sport or casual streetwear",
+    "dress_type": "lowerbody",
+    "gender": "male"
+  },
+  {
+    "name": "Dress Pants",
+    "region": "Modern (Global)",
+    "description": "men's formal tailored trousers in smooth wool, polyester, or cotton blend fabric with a flat front or single pleat, belt loops, side slash pockets, and a straight or slightly tapered leg falling to the top of the shoe, in solid black, charcoal, navy, or dark grey",
+    "dress_type": "lowerbody",
+    "gender": "male"
+  },
+  {
+    "name": "Men's Sweatpants",
+    "region": "Modern (Global)",
+    "description": "men's relaxed-fit casual trousers with a soft elastic drawstring waistband, side pockets, and straight or tapered legs ending in a ribbed or open cuff, in cotton fleece or French terry in solid grey marl, black, or navy, worn as loungewear, gym wear, or casual everyday attire",
+    "dress_type": "lowerbody",
+    "gender": "male"
+  },
+  {
+    "name": "Varsity Jacket",
+    "region": "Modern (Global)",
+    "description": "a men's hip-length casual jacket in the classic American collegiate style, with a wool body in a solid team color like navy, red, or black, contrasting leather sleeves, ribbed collar, cuffs, and hem, snap-button front closure, and embroidered letter or patch motifs on the chest",
+    "dress_type": "upper_outer",
+    "gender": "male"
+  },
+  {
+    "name": "Raincoat",
+    "region": "Modern (Global)",
+    "description": "a men's knee-length waterproof outer coat made from coated nylon or rubberized cotton in solid yellow, olive, navy, or black, with a hood, snap or zip front closure, sealed seams, and large patch pockets, worn over regular clothes as protection against heavy rain",
+    "dress_type": "upper_outer",
+    "gender": "male"
+  }
+]

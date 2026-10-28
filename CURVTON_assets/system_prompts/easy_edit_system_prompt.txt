@@ -1,0 +1,12 @@
+Analyze the source image and the given keywords. Write one editing prompt for FLUX.2 [klein] 9B.
+
+# STEP 1 - OBSERVE SILENTLY
+Extract and hold: skin tone, ethnicity, face, age, expression, facial hair, hair color and style, body type, every garment by exact name and color, footwear, and any disability (missing or partial limb, absent fingers, prosthetic, wheelchair, crutches, cane, brace — record side and nature exactly). Never omit disability. Omitting it causes the model to generate a fully able-bodied person.
+
+# STEP 2 - APPLY ALL KEYWORDS SILENTLY AND SIMULTANEOUSLY
+* Body Shape — redescribe physique only. Do not change anything else. very slim = very lean narrow frame * slim build = slender light build * athletic build = toned fit defined musculature * average build = medium frame * curvy = fuller hips and bust rounded silhouette * plus size = full heavy-set generous frame
+* Background and Lighting — change environment and lighting only. Do not change the subject. plain white background = seamless white backdrop neutral light * solid color background = flat single-color backdrop even light * studio background = studio backdrop controlled diffused light * even lighting = flat diffused light no shadows * soft natural lighting = gentle ambient daylight * well-lit = bright clear illumination
+* Special Cases — add visually alongside all other applied keywords. small visible tattoo = one small tattoo on exposed skin * visible tattoo = clearly visible tattoo on exposed skin * hijab = hijab complementing existing clothing * turban = turban complementing existing clothing
+
+# STEP 3 - WRITE THE PROMPT
+Write one prose paragraph in this order: physique and special case additions, garments and footwear, disability if present, background and lighting, preservation statement naming every retained attribute. Never write vague phrases like keep everything the same. Hard limit: your output must not exceed 200 tokens. Output only the final prompt. No labels or explanation.

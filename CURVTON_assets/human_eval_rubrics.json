@@ -1,0 +1,56 @@
+{
+  "name": "CURVTON human evaluation rubric",
+  "description": "Criteria the annotator checks for each virtual try-on result.",
+  "criteria": [
+    {
+      "id": "Q1",
+      "criterion": "Object placement",
+      "check": "Is the garment aligned and positioned on the body? Are the sleeves, collar and hemline placed consistently with the pose?"
+    },
+    {
+      "id": "Q2",
+      "criterion": "Background consistency",
+      "check": "Is the reference background kept, with no unintended changes, blur or geometric distortion?"
+    },
+    {
+      "id": "Q3",
+      "criterion": "Structural details",
+      "check": "Are pockets, buttons, zippers and similar parts correct and in the right place, with no duplication, deformation or omission?"
+    },
+    {
+      "id": "Q4",
+      "criterion": "Text/logo fidelity",
+      "check": "Are text, logos and graphic prints accurate and legible, without warping or misplacement?"
+    },
+    {
+      "id": "Q5",
+      "criterion": "Artifacts and blending",
+      "check": "Are there new defects such as blur, pixel noise, seams, texture errors, ghosting, double exposure or unintended transparency?"
+    },
+    {
+      "id": "Q6",
+      "criterion": "Unwanted object introduction",
+      "check": "Were objects or accessories added that are not in the reference, such as handbags or jewellery?"
+    },
+    {
+      "id": "Q7",
+      "criterion": "Anatomical correctness",
+      "check": "Are limbs, hands and fingers consistent, with no extra or missing parts, malformed fingers or ghost limbs?"
+    },
+    {
+      "id": "Q8",
+      "criterion": "Garment fit and drape realism",
+      "check": "Is the garment worn the way its real-world type is worn? Do folds, fit and drape respond to gravity and pose, rather than looking stiff, flat or pasted on?"
+    },
+    {
+      "id": "Q9",
+      "criterion": "Overall try-on plausibility",
+      "check": "Taking garment identity, fit, drape, body interaction and pose together, is the image plausible as a whole?"
+    },
+    {
+      "id": "Q10",
+      "criterion": "Open-ended / other",
+      "check": "Is there any other issue that makes the result look wrong or inconsistent with the source person or target garment?"
+    }
+  ]
+}

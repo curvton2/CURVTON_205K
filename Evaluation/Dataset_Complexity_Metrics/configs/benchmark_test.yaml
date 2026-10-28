@@ -1,0 +1,41 @@
+# configs/benchmark_test.yaml
+# Run: python extras/compute_all_metrics.py --config configs/benchmark_test.yaml
+
+defaults:
+  device: cuda          # use 'cpu' if no GPU
+  batch_size: 16
+  num_workers: 4
+  img_size: [512, 384]
+  split: test
+  run_pose:    true
+  run_occ:     true
+  run_bg:      true
+  run_illum:   true
+  run_shape:   true
+  run_appear:  true
+  run_garment: true
+
+datasets:
+  - name: viton_hd
+    root: ../benchmark_datasets/viton_hd
+    img_size: [1024, 768]
+
+  - name: dresscode
+    root: ../benchmark_datasets/dresscode
+    dresscode_category: upper_body
+
+  - name: dresscode
+    root: ../benchmark_datasets/dresscode
+    dresscode_category: lower_body
+
+  - name: dresscode
+    root: ../benchmark_datasets/dresscode
+    dresscode_category: dresses
+
+  - name: laion_fashion
+    root: ../benchmark_datasets/LAION-RVS-Fashion
+    split: test
+
+  - name: street_tryon
+    root: ../benchmark_datasets/street_tryon
+    split: test

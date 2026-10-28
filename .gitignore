@@ -1,0 +1,17 @@
+# Model weights / training checkpoints are never committed
+CURVTON_Experiments/**/checkpoints/
+CURVTON_Experiments/**/ckpts/
+Evaluation/**/checkpoints/
+Evaluation/**/ckpts/
+*.ckpt
+*.safetensors
+*.pth
+*.pt
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Large data files (>50 MB)
+CURVTON_Data_Pipeline/vton/edit/edit.jsonl
+CURVTON_Data_Pipeline/vton/tryon/edit.jsonl
