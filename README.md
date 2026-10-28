@@ -52,7 +52,7 @@ This repository contains everything behind **CURVTON-205K**:
 
 ```bash
 git clone https://github.com/curvton2/CURVTON_205K.git
-cd CURVTON-205K_CODE
+cd CURVTON_205K
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt                          # install the CUDA build of PyTorch first
 ```
@@ -87,7 +87,7 @@ bash Evaluation/VTON_Evaluation/stratified/eval_difficulty.sh
 ## 3. Repository structure
 
 ```text
-CURVTON-205K_CODE/
+CURVTON_205K/
 ├── CURVTON_assets/               Inputs the pipeline reads, plus paper figures
 │   ├── dictionaries/             cloth, person, garment (dress_info) and camera-angle dictionaries
 │   ├── system_prompts/           VLM system prompts
