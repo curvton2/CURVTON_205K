@@ -10,7 +10,7 @@ The metrics reported in the paper sit at the top of this folder; everything else
 
 ```
 Evaluation/Dataset_Complexity_Metrics/
-├── compute_metrics.py        # The 13 diversity numbers reported in the paper (per dataset / CURVTON tier)
+├── compute_metrics.py              # The 13 diversity numbers reported in the paper (per dataset / CURVTON tier)
 ├── pose_diversity.py               # Pose diversity σ²_pose exactly as defined in the paper
 ├── pretrained_metrics/
 │   ├── metrics/                    # Metric backends behind the paper numbers
