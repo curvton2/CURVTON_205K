@@ -2,7 +2,7 @@
 
 **A Mask-Free Difficulty-Stratified Synthetic Dataset for Robust and Scalable Virtual Try-On** · WACV 2027
 
-[Project page](https://dipanbartaula.github.io/curvton/) · [Dataset on Hugging Face](https://huggingface.co/datasets/curvton2/curvton2) · [Code](https://github.com/curvton/CURVTON-205K_CODE)
+[Project page](https://curvton2.github.io/curvton/) · [Dataset on Hugging Face](https://huggingface.co/datasets/curvton2/curvton2) · [Code](https://github.com/curvton/CURVTON-205K_CODE)
 
 ![CURVTON-205K triplets: source person, in-shop garment, try-on result](CURVTON_assets/docs/images/teaser.jpg)
 
