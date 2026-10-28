@@ -2,7 +2,7 @@
 
 **A Mask-Free Difficulty-Stratified Synthetic Dataset for Robust and Scalable Virtual Try-On** · WACV 2027
 
-[Project page](https://curvton2.github.io/curvton/) · [Dataset on Hugging Face](https://huggingface.co/datasets/curvton2/curvton2) · [Code](https://github.com/curvton/CURVTON-205K_CODE)
+[Project page](https://curvton2.github.io/curvton/) · [Dataset on Hugging Face](https://huggingface.co/datasets/curvton2/curvton2) · [Code](https://github.com/curvton2/CURVTON_205K)
 
 ![CURVTON-205K triplets: source person, in-shop garment, try-on result](CURVTON_assets/docs/images/teaser.jpg)
 
@@ -51,7 +51,7 @@ This repository contains everything behind **CURVTON-205K**:
 **1. Install**
 
 ```bash
-git clone https://github.com/curvton/CURVTON-205K_CODE.git
+git clone https://github.com/curvton2/CURVTON_205K.git
 cd CURVTON-205K_CODE
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt                          # install the CUDA build of PyTorch first
